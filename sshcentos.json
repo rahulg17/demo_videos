@@ -17,7 +17,7 @@
     }
   },
   "variables": {
-    "vmSize": "Standard_A1",
+    "vmSize": "Standard_DS2",
     "vmName": "vmcentos",
     "OSVersion": "7.1",
     "storageAccountName": "[concat(uniquestring(resourceGroup().id), 'sasshvm')]",
