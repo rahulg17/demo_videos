@@ -22,9 +22,9 @@
 		},
 		"OSVersion": {
 			"type": "string",
-			"defaultValue": "7.1",
+			"defaultValue": "7.2",
 			"allowedValues": [
-				"7.1"
+				"7.2"
 			],
 			"metadata": {
 				"description": "The Ubuntu version for the VM. This will pick a fully patched image of this given Ubuntu version."
