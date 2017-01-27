@@ -22,9 +22,9 @@
 		},
 		"OSVersion": {
 			"type": "string",
-			"defaultValue": "7.2",
+			"defaultValue": "7.1",
 			"allowedValues": [
-				"7.2"
+				"7.1"
 			],
 			"metadata": {
 				"description": "The Ubuntu version for the VM. This will pick a fully patched image of this given Ubuntu version."
@@ -136,7 +136,7 @@
 					"publisher": "[variables('imagePublisher')]",
 					"offer": "[variables('imageOffer')]",
 					"sku": "[parameters('OSVersion')]",
-					"version": "7.2"
+					"version": "7.1"
 				},
 				"osDisk": {
 					"name": "osdisk",
