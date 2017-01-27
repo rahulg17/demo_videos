@@ -34,7 +34,7 @@
 	"variables": {
 		"storageAccountName": "[concat(uniquestring(resourceGroup().id), 'salinuxvm')]",
 		"dataDisk1VhdName": "datadisk1",
-		"imagePublisher": "Canonical",
+		"imagePublisher": "OpenLogic",
 		"imageOffer": "CentOS",
 		"OSDiskName": "centosdisk",
 		"nicName": "myVMNic",
