@@ -15,25 +15,25 @@
         "description": "SSH rsa public key file as a string."
       }
     },
-	"vmName": {
+    "vmName": {
       "type": "string",
       "metadata": {
         "description": "VM name."
       }
     },
-	"nicName": {
+    "nicName": {
       "type": "string",
       "metadata": {
         "description": "NIC name."
       }
     },
-	"publicIPAddressName": {
+    "publicIPAddressName": {
       "type": "string",
       "metadata": {
         "description": "Public IP address name."
       }
     },
-	"osDiskName": {
+    "osDiskName": {
       "type": "string",
       "metadata": {
         "description": "OS disk name for VM."
