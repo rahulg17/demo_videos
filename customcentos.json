@@ -44,7 +44,7 @@
     "vmSize": "Standard_DS1",
     "OSVersion": "7.1",
     "storageAccountName": "[concat(uniquestring(resourceGroup().id), 'sasshvm')]",
-    "uniqueDnsLabelPrefix": "[concat(parameters('vmName'), uniquestring(resourceGroup().id))]",
+    "uniqueDnsLabelPrefix": "[parameters('vmName')]",
     "location": "[resourceGroup().location]",
     "imagePublisher": "Openlogic",
     "imageOffer": "CentOS",
