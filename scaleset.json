@@ -44,15 +44,8 @@
       "metadata": {
         "description": "SSH rsa public key file as a string."
       }
-    },
-    "resourcegroupname": {
-      "type": "string",
-      "defaultValue": "devopsgroup",
-      "metadata": {
-        "description": "Default resource group name."
-      }
     }
-  },
+   },
   "variables": {
     "storageAccountType": "Standard_LRS",
     "namingInfix": "[toLower(substring(concat(parameters('vmssName'), uniqueString(resourceGroup().id)), 0, 9))]",
