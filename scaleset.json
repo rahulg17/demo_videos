@@ -39,7 +39,7 @@
         "description": "Admin username on all VMs."
       }
     },
-    "sshKeyData": {
+    "adminPassword": {
       "type": "string",
       "metadata": {
         "description": "SSH rsa public key file as a string."
@@ -198,7 +198,7 @@
           "osProfile": {
             "computerNamePrefix": "[variables('namingInfix')]",
             "adminUsername": "[parameters('adminUsername')]",
-            "sshKeyData": "[parameters('sshKeyData')]"
+            "adminPassword": "[parameters('adminPassword')]"
           },
           "networkProfile": {
             "networkInterfaceConfigurations": [
