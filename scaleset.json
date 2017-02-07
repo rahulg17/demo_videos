@@ -69,7 +69,7 @@
     "virtualNetworkName": "sshVNET",
     "publicIPAddressName": "[concat(variables('namingInfix'), 'pip')]",
     "subnetName": "Subnet-1",
-    "loadBalancerName": "[concat(variables('namingInfix'), 'lb')]",
+    "loadBalancerName": "mywebapp",
     "publicIPAddressID": "[resourceId('Microsoft.Network/publicIPAddresses',variables('publicIPAddressName'))]",
     "lbID": "[resourceId('Microsoft.Network/loadBalancers',variables('loadBalancerName'))]",
     "natPoolName": "[concat(variables('namingInfix'), 'natpool')]",
