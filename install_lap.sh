@@ -1,5 +1,4 @@
 #!/bin/bash
 
-yum update -y
-yum install httpd
+yum install httpd -y
 echo "This is just a test" > /opt/test.txt
