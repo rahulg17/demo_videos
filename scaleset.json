@@ -228,10 +228,10 @@
       }
     },
     {
-    "name": "scriptextensiondemo",
     "type": "Microsoft.Compute/virtualMachines/extensions",
     "location": "[resourceGroup().location]",
     "apiVersion": "2015-06-15",
+    "name": "scriptextensiondemo",
     "properties": {
         "publisher": "Microsoft.Azure.Extensions",
         "type": "CustomScript",
