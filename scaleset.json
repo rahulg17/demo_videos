@@ -156,7 +156,7 @@
               "frontendPort": 80,
               "backendPort": 80,
               "enableFloatingIP": false,
-              "idleTimeoutInMinutes": 5,
+              "idleTimeoutInMinutes": 5
               }
           }
         ],
