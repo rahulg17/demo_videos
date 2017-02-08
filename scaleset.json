@@ -223,29 +223,30 @@
                 }
               }
             ]
+          },
+          "extensionProfile": {
+            "extensions": [
+              {
+                "name": "lapextension",
+                "properties": {
+                  "publisher": "Microsoft.Azure.Extensions",
+                  "type": "CustomScript",
+                  "typeHandlerVersion": "2.0",
+                  "autoUpgradeMinorVersion": true,
+                  "settings": {
+                    "fileUris": [
+                      "https://raw.githubusercontent.com/rahulg17/demo_videos/master/install_lap.sh"
+                    ],
+                    "commandToExecute": "bash install_lap.sh"
+                  }
+                }
+              }
+            ]
           }
         }
       }
     },
-    {
-    "type": "Microsoft.Compute/virtualMachines/extensions",
-    "location": "[resourceGroup().location]",
-    "apiVersion": "2015-06-15",
-    "name": "scriptextensiondemo",
-    "properties": {
-        "publisher": "Microsoft.Azure.Extensions",
-        "type": "CustomScript",
-        "typeHandlerVersion": "2.0",
-        "autoUpgradeMinorVersion": true,
-      "settings": {
-        "fileUris": [
-          "https://raw.githubusercontent.com/rahulg17/demo_videos/master/install_lap.sh"
-        ],
-        "commandToExecute": "sh install_lap.sh"
-      }
-    }
-    },
-
+    
     {
       "type": "Microsoft.Insights/autoscaleSettings",
       "apiVersion": "[variables('insightsApiVersion')]",
