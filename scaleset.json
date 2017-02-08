@@ -44,13 +44,8 @@
       "metadata": {
         "description": "SSH rsa public key file as a string."
       }
-    },
-    "privip": {
-      "type": "string",
-      "metadata": {
-        "description": "Private ip for scale set machine."
-      }
     }
+    
    },
   "variables": {
     "storageAccountType": "Standard_LRS",
@@ -212,9 +207,7 @@
                         "subnet": {
                           "id": "[concat('/subscriptions/', subscription().subscriptionId,'/resourceGroups/', resourceGroup().name, '/providers/Microsoft.Network/virtualNetworks/', variables('virtualNetworkName'), '/subnets/', variables('subnetName'))]"
                         },
-                      "privateIPAllocationMethod": "Static",
-                      "privateIPAddress": "[parameters('privip')]",
-                        "loadBalancerBackendAddressPools": [
+                      "loadBalancerBackendAddressPools": [
                           {
                             "id": "[concat('/subscriptions/', subscription().subscriptionId,'/resourceGroups/', resourceGroup().name, '/providers/Microsoft.Network/loadBalancers/', variables('loadBalancerName'), '/backendAddressPools/', variables('bePoolName'))]"
                           }
