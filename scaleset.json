@@ -154,7 +154,7 @@
               },
               "protocol": "tcp",
               "frontendPort": 80,
-              "backendPort": 80,
+              "backendPort": 8080,
               "enableFloatingIP": false,
               "idleTimeoutInMinutes": 5
               }
