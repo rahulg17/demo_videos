@@ -153,8 +153,8 @@
                 "id": "[variables('lbPoolID')]"
               },
               "protocol": "tcp",
-              "frontendPort": 8080,
-              "backendPort": 8080,
+              "frontendPort": 80,
+              "backendPort": 80,
               "enableFloatingIP": false,
               "idleTimeoutInMinutes": 5
               }
