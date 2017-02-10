@@ -76,7 +76,8 @@
     "ipConfigName": "[concat(variables('namingInfix'), 'ipconfig')]",
     "frontEndIPConfigID": "[concat(variables('lbID'),'/frontendIPConfigurations/loadBalancerFrontEnd')]",
     "lbPoolID": "[concat(variables('lbID'),'/backendAddressPools/', variables('bePoolName'))]",
-	  "lbProbeID": "[concat(variables('lbID'),'/probes/tcpProbe')]",
+    "lbProbeID": "[concat(variables('lbID'),'/probes/tcpProbe')]",
+    "availabilitySetName": "myAvSet",
     "diagnosticsStorageAccountName": "[concat(variables('uniqueStringArray')[0], variables('newStorageAccountSuffix'))]",
     "diagnosticsStorageAccountResourceGroup": "[resourceGroup().name]",
     "accountid": "[concat('/subscriptions/',subscription().subscriptionId,'/resourceGroups/',variables('diagnosticsStorageAccountResourceGroup'),'/providers/','Microsoft.Storage/storageAccounts/', variables('diagnosticsStorageAccountName'))]",
@@ -105,6 +106,17 @@
       "properties": {
         "accountType": "[variables('storageAccountType')]"
       }
+    },
+    {
+      "type": "Microsoft.Compute/availabilitySets",
+      "name": "[variables('availabilitySetName')]",
+      "apiVersion": "2016-04-30-preview",
+      "location": "[resourceGroup().location]",
+	"properties": {
+	    "platformFaultDomainCount": "2",
+	    "platformUpdateDomainCount": "2",
+	    "managed" : "true"
+	}
     },
     {
       "type": "Microsoft.Network/publicIPAddresses",
@@ -193,6 +205,9 @@
       },
       "properties": {
         "overprovision": "true",
+	"availabilitySet": {
+          "id": "[resourceId('Microsoft.Compute/availabilitySets',variables('availabilitySetName'))]"
+        },
         "upgradePolicy": {
           "mode": "Manual"
         },
