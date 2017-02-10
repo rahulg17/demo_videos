@@ -90,6 +90,7 @@
               "access": "Allow",
               "priority": 123,
               "direction": "Inbound"
+            }
             },
             {
             "name": "tomcatin",
@@ -103,6 +104,7 @@
               "access": "Allow",
               "priority": 133,
               "direction": "Inbound"
+            }
             },
             {
             "name": "jirain",
@@ -116,6 +118,7 @@
               "access": "Allow",
               "priority": 143,
               "direction": "Inbound"
+            }
             },
             {
             "name": "jenkinsin",
