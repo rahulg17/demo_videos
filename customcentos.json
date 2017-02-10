@@ -90,6 +90,45 @@
               "access": "Allow",
               "priority": 123,
               "direction": "Inbound"
+            },
+            {
+            "name": "tomcatin",
+            "properties": {
+              "description": "Tomcat web port.",
+              "protocol": "Tcp",
+              "sourcePortRange": "*",
+              "destinationPortRange": "8080",
+              "sourceAddressPrefix": "*",
+              "destinationAddressPrefix": "*",
+              "access": "Allow",
+              "priority": 133,
+              "direction": "Inbound"
+            },
+            {
+            "name": "jirain",
+            "properties": {
+              "description": "Jira port.",
+              "protocol": "Tcp",
+              "sourcePortRange": "*",
+              "destinationPortRange": "8085",
+              "sourceAddressPrefix": "*",
+              "destinationAddressPrefix": "*",
+              "access": "Allow",
+              "priority": 143,
+              "direction": "Inbound"
+            },
+            {
+            "name": "jenkinsin",
+            "properties": {
+              "description": "Jenkins port.",
+              "protocol": "Tcp",
+              "sourcePortRange": "*",
+              "destinationPortRange": "8081",
+              "sourceAddressPrefix": "*",
+              "destinationAddressPrefix": "*",
+              "access": "Allow",
+              "priority": 153,
+              "direction": "Inbound"
             }
           }
         ]
