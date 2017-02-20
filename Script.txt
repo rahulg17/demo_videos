@@ -1,0 +1,70 @@
+
+
+This Demo is to showcase DevOps tooling as a service.Cansider a very simple Credit Card Appllication . 
+
+
+Enter the details .1.Personal details.2.Address line3.Occupation details.
+Submit the details as credit card application form.
+
+
+
+There is  a new requirements to add fields in Credit Card Application.
+
+
+Lets create a user story/issue in Jira for new requirement.
+
+
+Select the developer from Users list.
+
+
+Assign this story/issue to developer and associate.
+
+
+Jira is integrated with Hipchat server which gives notification whenever new Jira ticket is created or build triggered.
+
+Open the eclipse IDE by Developer and doing changes as per requirement.
+
+
+For demo purpose we are uncommenting the highlighted code from these 2 files--index.jsp,response.jsp.
+
+
+Uncommented code and save changes
+
+Add the Jira ticket number and comments
+
+
+
+Push the changes to Git repository.
+
+
+Lets see the commited change at Git repository.
+
+
+
+jenkins is configured to pool changes.Onces the code is commited jenkin detect the changes and will build the Job
+
+
+
+This Jenkins Pipeline is configured so that it does Sonar Scans,Build,Junit test cases,Selenium test cases and deployment useing Ansible.
+
+Check  the status git commit.
+
+
+Jira having notification as Git Commits and CI Builds.for real time notification of build status to stakeholders,We have configured SMS notification which send build sucess or failure messages.
+
+
+Submit Request
+
+Application running with new Credit card type field as response details.
+
+
+Select rollback Jenkins Job.
+
+
+Rollback stratergy--Consider in PROD enviornment there is requirement of Rollback.In this case we need to rollback changes.As part of rollback , we are deploying previous stable version application
+
+
+After Jenkins rollback  job build ,previous stable version appllication deployed.
+
+
+Enter the details.1.Personal Details2.Address line3.Occupation Details
