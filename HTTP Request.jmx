@@ -31,10 +31,10 @@
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">vm-dev.eastus.cloudapp.azure.com</stringProp>
-          <stringProp name="HTTPSampler.port">8080</stringProp>
-          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
-          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+          <stringProp name="HTTPSampler.domain">a356v7lqyfy4uen.hbap.adroot.hsbc</stringProp>
+          <stringProp name="HTTPSampler.port">9080</stringProp>
+          <stringProp name="HTTPSampler.connect_timeout">10000</stringProp>
+          <stringProp name="HTTPSampler.response_timeout">20000</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path"></stringProp>
@@ -62,7 +62,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <DurationAssertion guiclass="DurationAssertionGui" testclass="DurationAssertion" testname="Duration Assertion" enabled="true">
-            <stringProp name="DurationAssertion.duration">10</stringProp>
+            <stringProp name="DurationAssertion.duration">50</stringProp>
             <stringProp name="Assertion.scope">all</stringProp>
           </DurationAssertion>
           <hashTree/>
@@ -106,7 +106,7 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">titleCust=mr&amp;name=jennifer&amp;dob=19%2F04%2F1967&amp;passNumber=E4455322&amp;nationality=Indian&amp;addLine=142%2C+7th+heaven&amp;city=Pune&amp;country=India&amp;number=98349735543&amp;occupation=bussiness&amp;anualIncome=43642</stringProp>
+                <stringProp name="Argument.value">titleCust=mr&amp;name=jennifermillervogan&amp;dob=19%2F04%2F1967&amp;passNumber=E4455322&amp;nationality=Indian&amp;addLine=142%2C+7th+heaven&amp;city=Pune&amp;country=India&amp;number=98349735543&amp;occupation=bussiness&amp;anualIncome=43642</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
@@ -128,7 +128,7 @@
         </HTTPSamplerProxy>
         <hashTree>
           <DurationAssertion guiclass="DurationAssertionGui" testclass="DurationAssertion" testname="Duration Assertion" enabled="true">
-            <stringProp name="DurationAssertion.duration">20</stringProp>
+            <stringProp name="DurationAssertion.duration">50</stringProp>
             <stringProp name="Assertion.scope">all</stringProp>
           </DurationAssertion>
           <hashTree/>
