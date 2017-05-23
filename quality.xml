@@ -1,0 +1,3282 @@
+<QUESTION1>1</QUESTION1>
+<QUESTION>___________ guarantees that only one person at a time is in the process of creating a new version for a particular branch.</QUESTION>
+<OPTION1>Record Locking</OPTION1>
+<OPTION2>Branch locking</OPTION2>
+<OPTION3>Object Locking</OPTION3>
+<OPTION4>File locking</OPTION4>
+<ANSWER>Branch locking</ANSWER>
+</Main>
+<Main>
+<QUESTION1>2</QUESTION1>
+<QUESTION>__________ model focuses on supporting management of logical changes to system configurations.</QUESTION>
+<OPTION1>Check-in, Check-out</OPTION1>
+<OPTION2>Composition</OPTION2>
+<OPTION3>Long Transaction</OPTION3>
+<OPTION4>Change set</OPTION4>
+<ANSWER>Change set</ANSWER>
+</Main>
+<Main>
+<QUESTION1>3</QUESTION1>
+<QUESTION>Configuration Management is a technique for</QUESTION>
+<OPTION1>Project Plan execution</OPTION1>
+<OPTION2>Overall Change Control</OPTION2>
+<OPTION3>Scope Planning</OPTION3>
+<OPTION4>Risk Quantificatiion</OPTION4>
+<ANSWER>Overall Change Control</ANSWER>
+</Main>
+<Main>
+<QUESTION1>4</QUESTION1>
+<QUESTION>CM Audit is mandatorily performed before release of the software to the customer to ensure :</QUESTION>
+<OPTION1>Correct versions of the software is being delivered</OPTION1>
+<OPTION2>CI(s) in the current version agrees with all specified requirements</OPTION2>
+<OPTION3>Requested and approved changes are implemented</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>5</QUESTION1>
+<QUESTION>_______ is maintained by the SCM tool and keeps tracks of all the changes to the CI along with relevant information like the person making the changes, time of change, date of change etc</QUESTION>
+<OPTION1>Baseline</OPTION1>
+<OPTION2>Versions of CI</OPTION2>
+<OPTION3>History</OPTION3>
+<OPTION4>Label</OPTION4>
+<ANSWER>History</ANSWER>
+</Main>
+<Main>
+<QUESTION1>6</QUESTION1>
+<QUESTION>Two developers in one team have checked in code after making individual changes to one single file. Which of the following task will provide a visual display of Conflict between the changes by the individuals.</QUESTION>
+<OPTION1>Merging</OPTION1>
+<OPTION2>Branching</OPTION2>
+<OPTION3>Difference Report</OPTION3>
+<OPTION4>Label</OPTION4>
+<ANSWER>Merging</ANSWER>
+</Main>
+<Main>
+<QUESTION1>7</QUESTION1>
+<QUESTION>Repeated Application of the same selection rule will result in either same or different component configurations. Which of the following results in the same component configuration?</QUESTION>
+<OPTION1>Partially bound configuration</OPTION1>
+<OPTION2>Unbound configuration</OPTION2>
+<OPTION3>Configuration template</OPTION3>
+<OPTION4>Bound Configuration</OPTION4>
+<ANSWER>Bound Configuration</ANSWER>
+</Main>
+<Main>
+<QUESTION1>8</QUESTION1>
+<QUESTION>Identification of configuration item is an essential part of SCM. Which is the immediate benefit of identifying the CI?</QUESTION>
+<OPTION1>Producing Product Deltas</OPTION1>
+<OPTION2>Analyzing historic information</OPTION2>
+<OPTION3>Reporting project status</OPTION3>
+<OPTION4>Managing release of multiple versions</OPTION4>
+<ANSWER>Managing release of multiple versions</ANSWER>
+</Main>
+<Main>
+<QUESTION1>9</QUESTION1>
+<QUESTION>Label is a useful identification tag. Which one of the following is not true about labels?</QUESTION>
+<OPTION1>Label freezes a moment in the development lifecycle</OPTION1>
+<OPTION2>All files of a project are labeled with the same string</OPTION2>
+<OPTION3>Labelling of files is recommended for updation information automatically</OPTION3>
+<OPTION4>Label identifies a project by a more descriptive name than a version</OPTION4>
+<ANSWER>Labelling of files is recommended for updation information automatically</ANSWER>
+</Main>
+<Main>
+<QUESTION1>10</QUESTION1>
+<QUESTION>A file of version merge combines the file modifications that have independently occurred in two versions into a new version in one of the branches. Which of the following result from a merge</QUESTION>
+<OPTION1>Both (b) and (C)</OPTION1>
+<OPTION2>Only a reflection of the merge in the version graph</OPTION2>
+<OPTION3>Only merging of the content of the two files</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (b) and (C)</ANSWER>
+</Main>
+<Main>
+<QUESTION1>11</QUESTION1>
+<QUESTION>_____ is the set of differences between two file versions of a component of two configuration versions of a configuration</QUESTION>
+<OPTION1>Difference Report</OPTION1>
+<OPTION2>Change Set</OPTION2>
+<OPTION3>Version Graph</OPTION3>
+<OPTION4>History Graph</OPTION4>
+<ANSWER>Change Set</ANSWER>
+</Main>
+<Main>
+<QUESTION1>12</QUESTION1>
+<QUESTION>If you have two sets of changes to a single file and you need to reflect both the changes, the task to be performed is</QUESTION>
+<OPTION1>Labeling</OPTION1>
+<OPTION2>Rollback</OPTION2>
+<OPTION3>Branching</OPTION3>
+<OPTION4>Merging</OPTION4>
+<ANSWER>Merging</ANSWER>
+</Main>
+<Main>
+<QUESTION1>13</QUESTION1>
+<QUESTION>In the composition model, the two step process of composition and selection can be graphically visualized as ____________ graph</QUESTION>
+<OPTION1>AND-XOR</OPTION1>
+<OPTION2>AND-NOR</OPTION2>
+<OPTION3>AND-OR</OPTION3>
+<OPTION4>XOR-AND</OPTION4>
+<ANSWER>AND-OR</ANSWER>
+</Main>
+<Main>
+<QUESTION1>14</QUESTION1>
+<QUESTION>According to all definitions of SCM, the basic activities are:</QUESTION>
+<OPTION1>Audit and reporting the status of repositories contents</OPTION1>
+<OPTION2>Identifying and organizing Configuration Items</OPTION2>
+<OPTION3>Managing and controlling the version of Configuration Items</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>15</QUESTION1>
+<QUESTION>Wipro is CMMI Level 5 certified organization. SCM Process area lies at:</QUESTION>
+<OPTION1>CMMI Level 1</OPTION1>
+<OPTION2>CMMI Level 2</OPTION2>
+<OPTION3>CMMI Level 3</OPTION3>
+<OPTION4>CMMI Level 5</OPTION4>
+<ANSWER>CMMI Level 2</ANSWER>
+</Main>
+<Main>
+<QUESTION1>16</QUESTION1>
+<QUESTION>You have newly created a design document for one critical module of your project. You want to place it under version control using some tool. You will perform this activity:</QUESTION>
+<OPTION1>Check in</OPTION1>
+<OPTION2>Add</OPTION2>
+<OPTION3>Any of the above</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Add</ANSWER>
+</Main>
+<Main>
+<QUESTION1>17</QUESTION1>
+<QUESTION>Which of the following should be considered as Configuration Items for any project:</QUESTION>
+<OPTION1>Source Code, Test plan, test Script, Test tools, Test results</OPTION1>
+<OPTION2>Project plan, Requirement specification, Class diagrams</OPTION2>
+<OPTION3>Design specification, Design tools, Activity diagrams</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Project plan, Requirement specification, Class diagrams</ANSWER>
+</Main>
+<Main>
+<QUESTION1>18</QUESTION1>
+<QUESTION>Domain Consultant has a significant role in:</QUESTION>
+<OPTION1>Change Control Board</OPTION1>
+<OPTION2>Assisting project management</OPTION2>
+<OPTION3>Identification of CI(s)</OPTION3>
+<OPTION4>Setting up the SCM Tool</OPTION4>
+<ANSWER>Change Control Board</ANSWER>
+</Main>
+<Main>
+<QUESTION1>19</QUESTION1>
+<QUESTION>Complexity issues that need be considered for SCM tool evaluation are</QUESTION>
+<OPTION1>Availability of support for non-ASCII files</OPTION1>
+<OPTION2>Availability of manuals</OPTION2>
+<OPTION3>Ease of use</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>20</QUESTION1>
+<QUESTION>_________ model focuses on improving support for creating configurations, managing their history, and using them as working contexts.</QUESTION>
+<OPTION1>Check-in, Check-out</OPTION1>
+<OPTION2>Change set</OPTION2>
+<OPTION3>Composition</OPTION3>
+<OPTION4>Long Transaction</OPTION4>
+<ANSWER>Composition</ANSWER>
+</Main>
+<Main>
+<QUESTION1>21</QUESTION1>
+<QUESTION>A set of patches applied to system releases like mainframe operating systems updates is an example of model.</QUESTION>
+<OPTION1>Check-in, Check-out</OPTION1>
+<OPTION2>Composition</OPTION2>
+<OPTION3>Change set</OPTION3>
+<OPTION4>Long Transaction</OPTION4>
+<ANSWER>Change set</ANSWER>
+</Main>
+<Main>
+<QUESTION1>22</QUESTION1>
+<QUESTION>Which of the following is NOT a CI type</QUESTION>
+<OPTION1>Design Document</OPTION1>
+<OPTION2>Installation Manual</OPTION2>
+<OPTION3>Contract document</OPTION3>
+<OPTION4>Executable Code</OPTION4>
+<ANSWER>Contract document</ANSWER>
+</Main>
+<Main>
+<QUESTION1>23</QUESTION1>
+<QUESTION>Change Control could be triggered by:</QUESTION>
+<OPTION1>Requirement changes by the customer</OPTION1>
+<OPTION2>Inconsistencies detected during development</OPTION2>
+<OPTION3>Defects found during Testing</OPTION3>
+<OPTION4>All the above</OPTION4>
+<ANSWER>All the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>24</QUESTION1>
+<QUESTION>_______represent the system structure and provide a list of components or groups in a hierarchical structure.</QUESTION>
+<OPTION1>Composition</OPTION1>
+<OPTION2>System Model</OPTION2>
+<OPTION3>Check-in, Check-out</OPTION3>
+<OPTION4>Change set</OPTION4>
+<ANSWER>System Model</ANSWER>
+</Main>
+<Main>
+<QUESTION1>25</QUESTION1>
+<QUESTION>When multiple checkouts are allowed in the CM model, which of the following is not true?</QUESTION>
+<OPTION1>Changes can only be made with write access</OPTION1>
+<OPTION2>True person can work simultaneously using the branching and merging tools if possible</OPTION2>
+<OPTION3>Only users in the access control list can make changes</OPTION3>
+<OPTION4>No changes are possible to a checked out file</OPTION4>
+<ANSWER>No changes are possible to a checked out file</ANSWER>
+</Main>
+<Main>
+<QUESTION1>26</QUESTION1>
+<QUESTION>After reaching a milestone and releasing appropriate artifacts to customer it is advisable to ________the deliverables to identify a baseline.</QUESTION>
+<OPTION1>Branch</OPTION1>
+<OPTION2>Branch and Label</OPTION2>
+<OPTION3>Label</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Label</ANSWER>
+</Main>
+<Main>
+<QUESTION1>27</QUESTION1>
+<QUESTION>“SCM is the art of identifying, organizing and controlling modifications to the software being built by programming team. It maximizes productivity by minimizing mistakes.” It is SCM’s definition by:</QUESTION>
+<OPTION1>IEEE</OPTION1>
+<OPTION2>SEI</OPTION2>
+<OPTION3>Roger Pressmen</OPTION3>
+<OPTION4>Wayne Babich</OPTION4>
+<ANSWER>Wayne Babich</ANSWER>
+</Main>
+<Main>
+<QUESTION1>28</QUESTION1>
+<QUESTION>SCM is directly associated with :</QUESTION>
+<OPTION1>Managing change and improved quality of software assets</OPTION1>
+<OPTION2>Requirement analysis and test planning</OPTION2>
+<OPTION3>Design Modeling and Documentations</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Managing change and improved quality of software assets</ANSWER>
+</Main>
+<Main>
+<QUESTION1>29</QUESTION1>
+<QUESTION>Which of the SCM related resource is available in Veloci-Q Procedures:</QUESTION>
+<OPTION1>SCM Plan</OPTION1>
+<OPTION2>SCM Audit</OPTION2>
+<OPTION3>Control of Documents</OPTION3>
+<OPTION4>SCM Guidelines</OPTION4>
+<ANSWER>Control of Documents</ANSWER>
+</Main>
+<Main>
+<QUESTION1>30</QUESTION1>
+<QUESTION>Which of the following options ensure cost saving due to SCM:</QUESTION>
+<OPTION1>Identification of CI(s)</OPTION1>
+<OPTION2>Accurate release control</OPTION2>
+<OPTION3>Proper resource allocation</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Accurate release control</ANSWER>
+</Main>
+<Main>
+<QUESTION1>31</QUESTION1>
+<QUESTION>To ensure high quality SCM, which of the following recommended is appropriate:</QUESTION>
+<OPTION1>Use SCM Tool</OPTION1>
+<OPTION2>Make a small and manageable team</OPTION2>
+<OPTION3>Maintain the project plan</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Use SCM Tool</ANSWER>
+</Main>
+<Main>
+<QUESTION1>32</QUESTION1>
+<QUESTION>In a project to identify the baseline artifacts which of the following techniques can be adopted?</QUESTION>
+<OPTION1>Merging</OPTION1>
+<OPTION2>Keywords</OPTION2>
+<OPTION3>Labeling</OPTION3>
+<OPTION4>Trigger</OPTION4>
+<ANSWER>Labeling</ANSWER>
+</Main>
+<Main>
+<QUESTION1>33</QUESTION1>
+<QUESTION>Which of the following statement is correct with respect to SCM tools:</QUESTION>
+<OPTION1>It creates delta of binary files as part of versioning, which in turn saves disk space</OPTION1>
+<OPTION2>A label or tag application is saved as meta data in tools database</OPTION2>
+<OPTION3>While sharing the files a physical copy is created at respective locations</OPTION3>
+<OPTION4>When the check out action is performed on the file, its properties does not change</OPTION4>
+<ANSWER>A label or tag application is saved as meta data in tools database</ANSWER>
+</Main>
+<Main>
+<QUESTION1>34</QUESTION1>
+<QUESTION>Which of the following are basic feature of SCM tools:</QUESTION>
+<OPTION1>Labeling</OPTION1>
+<OPTION2>Repository security</OPTION2>
+<OPTION3>Web Interface</OPTION3>
+<OPTION4>Event Trigger</OPTION4>
+<ANSWER>Repository security</ANSWER>
+</Main>
+<Main>
+<QUESTION1>35</QUESTION1>
+<QUESTION>Selection of SCM tool is based on:</QUESTION>
+<OPTION1>Identification of CI(s)</OPTION1>
+<OPTION2>Development environment and features</OPTION2>
+<OPTION3>Configuration status accounting</OPTION3>
+<OPTION4>Quality Model requirement</OPTION4>
+<ANSWER>Development environment and features</ANSWER>
+</Main>
+<Main>
+<QUESTION1>36</QUESTION1>
+<QUESTION>SCM defines basically :</QUESTION>
+<OPTION1>The organization of the components of a software system so that they fit together in a working order</OPTION1>
+<OPTION2>It helps minimize risks and manage change in software development</OPTION2>
+<OPTION3>It helps track &amp; prioritize changes to a work item during the course of the SDLC</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>37</QUESTION1>
+<QUESTION>_____________ ensures that the changes made by one user are available to all the other users of a file:</QUESTION>
+<OPTION1>Check-out</OPTION1>
+<OPTION2>Branching</OPTION2>
+<OPTION3>Check-in</OPTION3>
+<OPTION4>Merging</OPTION4>
+<ANSWER>Check-in</ANSWER>
+</Main>
+<Main>
+<QUESTION1>38</QUESTION1>
+<QUESTION>_____________ are the benefits of automated SCM.</QUESTION>
+<OPTION1>Release Management is better organized</OPTION1>
+<OPTION2>Information about all revisions to a file is available</OPTION2>
+<OPTION3>Builds can be built and upgraded efficiently</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>39</QUESTION1>
+<QUESTION>Complexity issues and Management issues are</QUESTION>
+<OPTION1>Activities of SCM</OPTION1>
+<OPTION2>Features of SCM</OPTION2>
+<OPTION3>Tool evaluation parameters of SCM</OPTION3>
+<OPTION4>Issues of SCM</OPTION4>
+<ANSWER>Tool evaluation parameters of SCM</ANSWER>
+</Main>
+<Main>
+<QUESTION1>40</QUESTION1>
+<QUESTION>All audit observations should be recorded in the _______________</QUESTION>
+<OPTION1>Change Control Register (CCR)</OPTION1>
+<OPTION2>Change Requests (CR)</OPTION2>
+<OPTION3>Software Configuration Audit Report (SCAR)</OPTION3>
+<OPTION4>Baseline Record (BR)</OPTION4>
+<ANSWER>Software Configuration Audit Report (SCAR)</ANSWER>
+</Main>
+<Main>
+<QUESTION1>41</QUESTION1>
+<QUESTION>Multiple people working on one work item is</QUESTION>
+<OPTION1>Multi-Development</OPTION1>
+<OPTION2>Multi-release</OPTION2>
+<OPTION3>Concurrent development</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Concurrent development</ANSWER>
+</Main>
+<Main>
+<QUESTION1>42</QUESTION1>
+<QUESTION>__________ provides historic information on the amount of development and maintenance effort during a product's life cycle</QUESTION>
+<OPTION1>Weekly Report</OPTION1>
+<OPTION2>Big report</OPTION2>
+<OPTION3>Status Accounting</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Status Accounting</ANSWER>
+</Main>
+<Main>
+<QUESTION1>43</QUESTION1>
+<QUESTION>__________ involves analyzing the documentary proof for changes, versions and release information for components of a CI</QUESTION>
+<OPTION1>Baselining</OPTION1>
+<OPTION2>Accounting</OPTION2>
+<OPTION3>Auditing</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Auditing</ANSWER>
+</Main>
+<Main>
+<QUESTION1>44</QUESTION1>
+<QUESTION>Which of the following is an SCM tool</QUESTION>
+<OPTION1>VSS</OPTION1>
+<OPTION2>Clear Case</OPTION2>
+<OPTION3>CVS</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>45</QUESTION1>
+<QUESTION>Management issues that need be considered for SCM tool evaluation are</QUESTION>
+<OPTION1>License Cost</OPTION1>
+<OPTION2>Availability of upgrades</OPTION2>
+<OPTION3>After sales support</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>46</QUESTION1>
+<QUESTION>Controlling the retrieval of modifiable copies of files from the repository is</QUESTION>
+<OPTION1>Concurrency Control</OPTION1>
+<OPTION2>SCM</OPTION2>
+<OPTION3>Merging</OPTION3>
+<OPTION4>Document Retrieval</OPTION4>
+<ANSWER>Concurrency Control</ANSWER>
+</Main>
+<Main>
+<QUESTION1>47</QUESTION1>
+<QUESTION>_________ helps us to know how merging works</QUESTION>
+<OPTION1>Merging online help</OPTION1>
+<OPTION2>Merging manual</OPTION2>
+<OPTION3>Merging Semantics</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Merging Semantics</ANSWER>
+</Main>
+<Main>
+<QUESTION1>48</QUESTION1>
+<QUESTION>The basic requirements of a SCM system are</QUESTION>
+<OPTION1>Planning, versioning, branching, merging, reports</OPTION1>
+<OPTION2>Planning, check-in, branching, merging, tools</OPTION2>
+<OPTION3>Planning, check-in, check-out, version</OPTION3>
+<OPTION4>Planning, control, status accounting, audit</OPTION4>
+<ANSWER>Planning, control, status accounting, audit</ANSWER>
+</Main>
+<Main>
+<QUESTION1>49</QUESTION1>
+<QUESTION>The Criteria for selecting the right SCM tool is based upon</QUESTION>
+<OPTION1>less Cost , User friendly, Support, features</OPTION1>
+<OPTION2>accessibly by many users, cost, user friendly, short learning curve</OPTION2>
+<OPTION3>Features of the tool ,development environment, complexity, Cost</OPTION3>
+<OPTION4>Look and Feel, must be windows based, less cost</OPTION4>
+<ANSWER>Features of the tool ,development environment, complexity, Cost</ANSWER>
+</Main>
+<Main>
+<QUESTION1>50</QUESTION1>
+<QUESTION>The advantages of having naming conventions for a CI are it helps to :</QUESTION>
+<OPTION1>Identify the functionality of a CI</OPTION1>
+<OPTION2>Identify the project code</OPTION2>
+<OPTION3>Identify the Type of a CI</OPTION3>
+<OPTION4>All the above</OPTION4>
+<ANSWER>All the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>51</QUESTION1>
+<QUESTION>_____ are used to automatically update some parts of the header information or comments stored in the source file each time a change or revision is made.</QUESTION>
+<OPTION1>Keywords</OPTION1>
+<OPTION2>Label</OPTION2>
+<OPTION3>Versions</OPTION3>
+<OPTION4>Header File</OPTION4>
+<ANSWER>Keywords</ANSWER>
+</Main>
+<Main>
+<QUESTION1>52</QUESTION1>
+<QUESTION>Workspace is a concept using in which of the models</QUESTION>
+<OPTION1>System Model</OPTION1>
+<OPTION2>Composition</OPTION2>
+<OPTION3>Long Transaction</OPTION3>
+<OPTION4>Change set</OPTION4>
+<ANSWER>Long Transaction</ANSWER>
+</Main>
+<Main>
+<QUESTION1>53</QUESTION1>
+<QUESTION>In a scenario when different developers work in separate stable workspaces and the collection of their changes evolve a system, which concurrency control will you adopt?</QUESTION>
+<OPTION1>Concurrency within one workspace</OPTION1>
+<OPTION2>Concurrency between workspace requiring co-ordination</OPTION2>
+<OPTION3>Concurrent Independent Development</OPTION3>
+<OPTION4>Limited access to workspace</OPTION4>
+<ANSWER>Concurrency between workspace requiring co-ordination</ANSWER>
+</Main>
+<Main>
+<QUESTION1>54</QUESTION1>
+<QUESTION>Component libraries are defined on the basis of ________</QUESTION>
+<OPTION1>Both (b) and (C)</OPTION1>
+<OPTION2>Access Control</OPTION2>
+<OPTION3>Content</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (b) and (C)</ANSWER>
+</Main>
+<Main>
+<QUESTION1>55</QUESTION1>
+<QUESTION>Which one of the following is a good alternative to Branching and merging</QUESTION>
+<OPTION1>Workspace</OPTION1>
+<OPTION2>Concurrent development</OPTION2>
+<OPTION3>Sharing</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Sharing</ANSWER>
+</Main>
+<Main>
+<QUESTION1>56</QUESTION1>
+<QUESTION>Older versions of a specific workproduct can be easily retrieved by using_____________feature in SCM system</QUESTION>
+<OPTION1>Rollback</OPTION1>
+<OPTION2>Merging</OPTION2>
+<OPTION3>Baseline</OPTION3>
+<OPTION4>Branching</OPTION4>
+<ANSWER>Rollback</ANSWER>
+</Main>
+<Main>
+<QUESTION1>57</QUESTION1>
+<QUESTION>SCM control enables team to</QUESTION>
+<OPTION1>Approve</OPTION1>
+<OPTION2>Review, Approve and Incorporate Changes</OPTION2>
+<OPTION3>Review</OPTION3>
+<OPTION4>Incorporate changes</OPTION4>
+<ANSWER>Review, Approve and Incorporate Changes</ANSWER>
+</Main>
+<Main>
+<QUESTION1>58</QUESTION1>
+<QUESTION>Any proposals for improvement in SCM process defined in veloci-Q can be raised using</QUESTION>
+<OPTION1>Audits</OPTION1>
+<OPTION2>TedWeb Request</OPTION2>
+<OPTION3>PIP</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>PIP</ANSWER>
+</Main>
+<Main>
+<QUESTION1>59</QUESTION1>
+<QUESTION>A feature has been incorrectly implemented by a programmer. Which feature of SCM tool can be used to track the programmer and the version from which it is implemented ?</QUESTION>
+<OPTION1>Merging</OPTION1>
+<OPTION2>Branching</OPTION2>
+<OPTION3>Rollback</OPTION3>
+<OPTION4>History</OPTION4>
+<ANSWER>History</ANSWER>
+</Main>
+<Main>
+<QUESTION1>60</QUESTION1>
+<QUESTION>Sharing Files is a good alternative as compared to</QUESTION>
+<OPTION1>Branching</OPTION1>
+<OPTION2>Merging</OPTION2>
+<OPTION3>A &amp; B</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Branching</ANSWER>
+</Main>
+<Main>
+<QUESTION1>61</QUESTION1>
+<QUESTION>In this course SCM stands for :</QUESTION>
+<OPTION1>Supply Chain Management</OPTION1>
+<OPTION2>Software Change Management</OPTION2>
+<OPTION3>Software Configuration Management</OPTION3>
+<OPTION4>System Crossover Management</OPTION4>
+<ANSWER>Software Configuration Management</ANSWER>
+</Main>
+<Main>
+<QUESTION1>62</QUESTION1>
+<QUESTION>Which of the following is not a source of change:</QUESTION>
+<OPTION1>Concurrent Development</OPTION1>
+<OPTION2>Multiple Releases</OPTION2>
+<OPTION3>SCM Tool</OPTION3>
+<OPTION4>Product Family</OPTION4>
+<ANSWER>SCM Tool</ANSWER>
+</Main>
+<Main>
+<QUESTION1>63</QUESTION1>
+<QUESTION>Change Control Register and Software Configuration Audit Reports are kept within Veloci-Q section:</QUESTION>
+<OPTION1>Templates</OPTION1>
+<OPTION2>Policies</OPTION2>
+<OPTION3>Procedures</OPTION3>
+<OPTION4>Checklist</OPTION4>
+<ANSWER>Templates</ANSWER>
+</Main>
+<Main>
+<QUESTION1>64</QUESTION1>
+<QUESTION>Any SCM process related suggestion can be proposed in Veloci-Q using:</QUESTION>
+<OPTION1>Release Review Report</OPTION1>
+<OPTION2>Process Improvement Proposal</OPTION2>
+<OPTION3>Project Plan</OPTION3>
+<OPTION4>Release Note</OPTION4>
+<ANSWER>Process Improvement Proposal</ANSWER>
+</Main>
+<Main>
+<QUESTION1>65</QUESTION1>
+<QUESTION>While working with a SCM tool to edit an existing code file, you follow this sequence of activities:</QUESTION>
+<OPTION1>Check out, make modification on server side and check in</OPTION1>
+<OPTION2>Check in, make modification on your local copy and check out</OPTION2>
+<OPTION3>Check out, make modification on your local copy and check in</OPTION3>
+<OPTION4>Check in, make modification on server side and check out</OPTION4>
+<ANSWER>Check out, make modification on your local copy and check in</ANSWER>
+</Main>
+<Main>
+<QUESTION1>66</QUESTION1>
+<QUESTION>Defining rights of individuals for accessing the project repository is defined at which of the following stage of SCM:</QUESTION>
+<OPTION1>SCM Audit</OPTION1>
+<OPTION2>SCM Planning</OPTION2>
+<OPTION3>SCM Control</OPTION3>
+<OPTION4>SCM status accounting</OPTION4>
+<ANSWER>SCM Planning</ANSWER>
+</Main>
+<Main>
+<QUESTION1>67</QUESTION1>
+<QUESTION>An aggregation of CI(s) that has been formally reviewed and agreed upon and taken into control at single point in time can be defined by……………. and using and SCM tool it is identified by ……………. (Fill in the blank from respective comma separated words)</QUESTION>
+<OPTION1>Project, Pinning</OPTION1>
+<OPTION2>Keyword, Pinning</OPTION2>
+<OPTION3>Baseline, Label</OPTION3>
+<OPTION4>Branch, Trigger</OPTION4>
+<ANSWER>Baseline, Label</ANSWER>
+</Main>
+<Main>
+<QUESTION1>68</QUESTION1>
+<QUESTION>In check-in, check-out model, version branching and merging are represented by a structure known as</QUESTION>
+<OPTION1>Structure Chart</OPTION1>
+<OPTION2>Version Graph</OPTION2>
+<OPTION3>History Graph</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Version Graph</ANSWER>
+</Main>
+<Main>
+<QUESTION1>69</QUESTION1>
+<QUESTION>Version branching is used for</QUESTION>
+<OPTION1>Experimental development</OPTION1>
+<OPTION2>Concurrent changes</OPTION2>
+<OPTION3>Independent path of development</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>70</QUESTION1>
+<QUESTION>__________ model focuses on supporting the evolution of systems as a series of atomic changes, and on co-ordinating the change of systems.</QUESTION>
+<OPTION1>Composition</OPTION1>
+<OPTION2>Change set</OPTION2>
+<OPTION3>Check-in, Check-out</OPTION3>
+<OPTION4>Long Transaction</OPTION4>
+<ANSWER>Long Transaction</ANSWER>
+</Main>
+<Main>
+<QUESTION1>71</QUESTION1>
+<QUESTION>Software Configuration management is a CMMi Level _____ process area</QUESTION>
+<OPTION1>3</OPTION1>
+<OPTION2>4</OPTION2>
+<OPTION3>2</OPTION3>
+<OPTION4>5</OPTION4>
+<ANSWER>2</ANSWER>
+</Main>
+<Main>
+<QUESTION1>72</QUESTION1>
+<QUESTION>______ can help to reverse back to the previous baseline at any point of SDLC</QUESTION>
+<OPTION1>Labelling</OPTION1>
+<OPTION2>Merging</OPTION2>
+<OPTION3>Baselining</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Baselining</ANSWER>
+</Main>
+<Main>
+<QUESTION1>73</QUESTION1>
+<QUESTION>Your project is in the User Acceptance Testing phase and the customer comes back with a new requirement. What is correct sequence of activities in handling this change request:</QUESTION>
+<OPTION1>PM approves the Change, Change is implemented,CR is recorded in the CCR,CCB approves the recorded CR.</OPTION1>
+<OPTION2>Log the CR in the CCR, The CR is taken up by the CCB for impact analysis, PM approves the change, Change is implemented</OPTION2>
+<OPTION3>CCB approves the Change, PM does Impact analysis, Change is implemented, CR is recorded in the CCR</OPTION3>
+<OPTION4>Change is recorded in the CCR, Impact analysis is done by the CCB, Change is approved by the CCB, Change is implemented</OPTION4>
+<ANSWER>Log the CR in the CCR, The CR is taken up by the CCB for impact analysis, PM approves the change, Change is implemented</ANSWER>
+</Main>
+<Main>
+<QUESTION1>74</QUESTION1>
+<QUESTION>Which of the following statements is INCORRECT?</QUESTION>
+<OPTION1>A workspace can originate from a preserved configuration of another workspace</OPTION1>
+<OPTION2>A workspace can originate from a repository</OPTION2>
+<OPTION3>A workspace originates from a bound configuration in the repository</OPTION3>
+<OPTION4>Maintaining a file system as work area is more space efficient than using a workspace</OPTION4>
+<ANSWER>Maintaining a file system as work area is more space efficient than using a workspace</ANSWER>
+</Main>
+<Main>
+<QUESTION1>75</QUESTION1>
+<QUESTION>SCM does not help in meeting which of the following ISO requirement</QUESTION>
+<OPTION1>Identification and Traceability</OPTION1>
+<OPTION2>Control of records</OPTION2>
+<OPTION3>Design and Development outputs</OPTION3>
+<OPTION4>Control of Design and development Changes</OPTION4>
+<ANSWER>Design and Development outputs</ANSWER>
+</Main>
+<Main>
+<QUESTION1>76</QUESTION1>
+<QUESTION>Before checking in the changes to a file it is advisable to use ______ to check the changes made to a particular file and if changes are made to the latest version of the file.</QUESTION>
+<OPTION1>Audit Report</OPTION1>
+<OPTION2>Configuration report</OPTION2>
+<OPTION3>Difference Report</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Difference Report</ANSWER>
+</Main>
+<Main>
+<QUESTION1>77</QUESTION1>
+<QUESTION>Branching is a technique generally used for</QUESTION>
+<OPTION1>Build customized versions of project for different clients</OPTION1>
+<OPTION2>Merging two versions of the same file</OPTION2>
+<OPTION3>Both A &amp; B</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Build customized versions of project for different clients</ANSWER>
+</Main>
+<Main>
+<QUESTION1>78</QUESTION1>
+<QUESTION>If a SCM break downs, which of the following is of the most help:</QUESTION>
+<OPTION1>The last complete backup of SCM repository</OPTION1>
+<OPTION2>Team coordination &amp; proper project management in crisis</OPTION2>
+<OPTION3>Individual developer’s knowledge and understanding of the system developed so far</OPTION3>
+<OPTION4>Running release in production</OPTION4>
+<ANSWER>The last complete backup of SCM repository</ANSWER>
+</Main>
+<Main>
+<QUESTION1>79</QUESTION1>
+<QUESTION>Management in SCM is concerned with identification and guidance of Configuration Items to final assembly. Which of the following activity is not involved in it:</QUESTION>
+<OPTION1>Baselining CI(s)</OPTION1>
+<OPTION2>Identification of CI(s)</OPTION2>
+<OPTION3>Analysis of historic Information</OPTION3>
+<OPTION4>Performing deployment</OPTION4>
+<ANSWER>Performing deployment</ANSWER>
+</Main>
+<Main>
+<QUESTION1>80</QUESTION1>
+<QUESTION>SCM tools maintain the history of artifacts. What is the primary information maintained within history?</QUESTION>
+<OPTION1>Audit status of version</OPTION1>
+<OPTION2>Name and versions of artifacts</OPTION2>
+<OPTION3>Label associated with versions</OPTION3>
+<OPTION4>A &amp; C</OPTION4>
+<ANSWER>A &amp; C</ANSWER>
+</Main>
+<Main>
+<QUESTION1>81</QUESTION1>
+<QUESTION>Using any SCM tool you can see:</QUESTION>
+<OPTION1>Difference between two versions of binary files</OPTION1>
+<OPTION2>Difference between two versions of files irrespective of their file types</OPTION2>
+<OPTION3>Difference between two versions of ASCII files</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Difference between two versions of ASCII files</ANSWER>
+</Main>
+<Main>
+<QUESTION1>82</QUESTION1>
+<QUESTION>In a parallel maintenance and enhancement project scenario if one of the bug fixes from maintenance project line is also need to be fixed for the enhancement project line then which of the following option is the most optimum?</QUESTION>
+<OPTION1>Suggesting developer of enhancement line to perform the bug fix changes</OPTION1>
+<OPTION2>Performing merge from identified baseline of maintenance bug fix to enhancement line</OPTION2>
+<OPTION3>Setting up trigger for automatic bug fix notification</OPTION3>
+<OPTION4>Inform testing team about the bug fix in enhancement line</OPTION4>
+<ANSWER>Performing merge from identified baseline of maintenance bug fix to enhancement line</ANSWER>
+</Main>
+<Main>
+<QUESTION1>83</QUESTION1>
+<QUESTION>To ensure change control, Veloci-Q procedures says:</QUESTION>
+<OPTION1>The request of change should be recorded in Change Control Register</OPTION1>
+<OPTION2>Impact should be determined and client’s agreement should be received for payment against change incorporation</OPTION2>
+<OPTION3>Change should be tracked till it is PM approves it</OPTION3>
+<OPTION4>Risk assessment should be done in the end</OPTION4>
+<ANSWER>The request of change should be recorded in Change Control Register</ANSWER>
+</Main>
+<Main>
+<QUESTION1>84</QUESTION1>
+<QUESTION>Configuration Status Accounting provides reports for senior management to access the health of project at any given point in time. Which of the following report is derived from Configuration Status Accounting:</QUESTION>
+<OPTION1>System Performance Report</OPTION1>
+<OPTION2>SCM Tool Evaluation Report</OPTION2>
+<OPTION3>Traceability metrics Report</OPTION3>
+<OPTION4>Bug fix implementation Report</OPTION4>
+<ANSWER>Bug fix implementation Report</ANSWER>
+</Main>
+<Main>
+<QUESTION1>85</QUESTION1>
+<QUESTION>Control in SCM provides project personnel with the ability to :</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>Approve</OPTION2>
+<OPTION3>Incorporate changes</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>86</QUESTION1>
+<QUESTION>_____________ model focuses on versioning of product components</QUESTION>
+<OPTION1>Merging</OPTION1>
+<OPTION2>Labeling</OPTION2>
+<OPTION3>Check-in / Check-out</OPTION3>
+<OPTION4>Branching</OPTION4>
+<ANSWER>Check-in / Check-out</ANSWER>
+</Main>
+<Main>
+<QUESTION1>87</QUESTION1>
+<QUESTION>_____________ is the process of combining two sets of changes to a file or two files to create a new version or combined file</QUESTION>
+<OPTION1>Merging</OPTION1>
+<OPTION2>Branching</OPTION2>
+<OPTION3>Labeling</OPTION3>
+<OPTION4>Check-out</OPTION4>
+<ANSWER>Merging</ANSWER>
+</Main>
+<Main>
+<QUESTION1>88</QUESTION1>
+<QUESTION>Status Accounting provides</QUESTION>
+<OPTION1>Status of change request and defect reports</OPTION1>
+<OPTION2>Version status of various configuration items (CIs)</OPTION2>
+<OPTION3>Status of configuration items in various project baselines</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>89</QUESTION1>
+<QUESTION>__________ process help to control different versions of the product.</QUESTION>
+<OPTION1>SCM</OPTION1>
+<OPTION2>Change request</OPTION2>
+<OPTION3>Concurrent development</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>SCM</ANSWER>
+</Main>
+<Main>
+<QUESTION1>90</QUESTION1>
+<QUESTION>Which of the following is a requirement of ISO 9001</QUESTION>
+<OPTION1>Control of documents</OPTION1>
+<OPTION2>Identification and traceability</OPTION2>
+<OPTION3>Control of non-conforming product</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>91</QUESTION1>
+<QUESTION>CMMi assessments will look to see if a mechanism is used to control</QUESTION>
+<OPTION1>Changes in requirements &amp; design</OPTION1>
+<OPTION2>Changes in code</OPTION2>
+<OPTION3>Configuration management of the software tools used in the development process</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>92</QUESTION1>
+<QUESTION>CMMi level 2 is described as</QUESTION>
+<OPTION1>Initial</OPTION1>
+<OPTION2>Repeatable</OPTION2>
+<OPTION3>Optimized</OPTION3>
+<OPTION4>Evolving</OPTION4>
+<ANSWER>Repeatable</ANSWER>
+</Main>
+<Main>
+<QUESTION1>93</QUESTION1>
+<QUESTION>SCM related procedures in Veloci-Q are</QUESTION>
+<OPTION1>Configuration Management</OPTION1>
+<OPTION2>Control of documents</OPTION2>
+<OPTION3>Both (a) &amp; (b)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (a) &amp; (b)</ANSWER>
+</Main>
+<Main>
+<QUESTION1>94</QUESTION1>
+<QUESTION>SCM related templates in Veloci-Q are</QUESTION>
+<OPTION1>Baseline Record (BR)</OPTION1>
+<OPTION2>Change Control Register (CCR)</OPTION2>
+<OPTION3>Software Configuration Audit Report (SCAR)</OPTION3>
+<OPTION4>All the above</OPTION4>
+<ANSWER>All the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>95</QUESTION1>
+<QUESTION>SCM benefits an organization in the areas;</QUESTION>
+<OPTION1>Control, Management, control, quality</OPTION1>
+<OPTION2>Document control</OPTION2>
+<OPTION3>Tools usage</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Control, Management, control, quality</ANSWER>
+</Main>
+<Main>
+<QUESTION1>96</QUESTION1>
+<QUESTION>Standardized, measurable process for change management are inherent of</QUESTION>
+<OPTION1>SCM processes</OPTION1>
+<OPTION2>SCM tools</OPTION2>
+<OPTION3>SCM plan</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>SCM tools</ANSWER>
+</Main>
+<Main>
+<QUESTION1>97</QUESTION1>
+<QUESTION>Extracting CI from repository for browsing, editing or printing is</QUESTION>
+<OPTION1>Merging</OPTION1>
+<OPTION2>Check-in</OPTION2>
+<OPTION3>Sharing</OPTION3>
+<OPTION4>Check-out</OPTION4>
+<ANSWER>Check-out</ANSWER>
+</Main>
+<Main>
+<QUESTION1>98</QUESTION1>
+<QUESTION>A report that shows the differences between two or more files or versions of a file are</QUESTION>
+<OPTION1>Audit report</OPTION1>
+<OPTION2>Difference report</OPTION2>
+<OPTION3>Configuration report</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Difference report</ANSWER>
+</Main>
+<Main>
+<QUESTION1>99</QUESTION1>
+<QUESTION>_________ is the process of using one base file for two or more parallel activities like customization</QUESTION>
+<OPTION1>Check-in</OPTION1>
+<OPTION2>Merging</OPTION2>
+<OPTION3>Branching</OPTION3>
+<OPTION4>Check-out</OPTION4>
+<ANSWER>Branching</ANSWER>
+</Main>
+<Main>
+<QUESTION1>100</QUESTION1>
+<QUESTION>Two aspects of merging are</QUESTION>
+<OPTION1>Check-in and check-out</OPTION1>
+<OPTION2>Merging ascii file and merging non-ascii files</OPTION2>
+<OPTION3>Merging of actual content; reflecting the merge in version history</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Merging of actual content; reflecting the merge in version history</ANSWER>
+</Main>
+<Main>
+<QUESTION1>101</QUESTION1>
+<QUESTION>In SCM context, a work item or deliverable such as code, documents or data is a</QUESTION>
+<OPTION1>Data Item</OPTION1>
+<OPTION2>Configuration Item</OPTION2>
+<OPTION3>Building Block</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Configuration Item</ANSWER>
+</Main>
+<Main>
+<QUESTION1>102</QUESTION1>
+<QUESTION>Common planning level activities are</QUESTION>
+<OPTION1>Approach for frequency and mode of version control</OPTION1>
+<OPTION2>Branching Approach</OPTION2>
+<OPTION3>Merging Approach</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>103</QUESTION1>
+<QUESTION>__________ means proposed changes to a CI are incorporated into the software configuration after review and approval</QUESTION>
+<OPTION1>SCM</OPTION1>
+<OPTION2>Change Control</OPTION2>
+<OPTION3>Baselining</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Change Control</ANSWER>
+</Main>
+<Main>
+<QUESTION1>104</QUESTION1>
+<QUESTION>Some of the parameters considered for change evaluation are</QUESTION>
+<OPTION1>Impact on existing system</OPTION1>
+<OPTION2>Complexity of Change</OPTION2>
+<OPTION3>Cost</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>105</QUESTION1>
+<QUESTION>Which of the following needs to be taken into consideration for SCM tool selection</QUESTION>
+<OPTION1>OS Support</OPTION1>
+<OPTION2>Development Environment</OPTION2>
+<OPTION3>Hardware Requirements</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+</NewDataSet>
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+<instxt>
+                <txt id="intro1">Assess Yourself!</txt>
+                <txt id="intro2">You have to answer 25 multiple choice questions.</txt>
+                <txt id="intro3">You need to score a minimum of 70% to pass the test.</txt>
+                <txt id="intro4">Click Enter to begin the test.</txt>
+                <txt id="intro5">All the Best!</txt>
+                <txt id="intro6">Assessment - Result</txt>
+                <txt id="intro7">Your score</txt>
+                <txt id="intro8"></txt>
+                <txt id="intro9">VelociQ 101 Assessment</txt>
+                <txt id="intro10">Click the Correct Option.</txt>
+                <txt id="intro11">Click Get your certificate.</txt>
+                <txt id="intro12">Sorry! You have failed</txt>
+                <txt id="intro13">Congratulations!</txt>
+        
+        </instxt>
+        
+<Main>
+<QUESTION1>1</QUESTION1>
+<QUESTION>You are a Project Engineer who has just joined Wipro. You want to know all your responsibilities as defined by veloci-Q for your role. Where would you go?</QUESTION>
+<OPTION1>Treasure House</OPTION1>
+<OPTION2>Navigator</OPTION2>
+<OPTION3>PDB</OPTION3>
+<OPTION4>Guidelines</OPTION4>
+<ANSWER>Navigator</ANSWER>
+</Main>
+<Main>
+<QUESTION1>2</QUESTION1>
+<QUESTION>Which phases of SDLC can be sources for errors?</QUESTION>
+<OPTION1>RS, Design, CUT &amp; IT</OPTION1>
+<OPTION2>RS, Design, CUT, IT, ST &amp; AT</OPTION2>
+<OPTION3>RS, Design, CUT, IT &amp; ST</OPTION3>
+<OPTION4>RS, Design &amp; CUT</OPTION4>
+<ANSWER>RS, Design &amp; CUT</ANSWER>
+</Main>
+<Main>
+<QUESTION1>3</QUESTION1>
+<QUESTION>The data and information of all previously executed projects are in the:</QUESTION>
+<OPTION1>PIP DB</OPTION1>
+<OPTION2>Navigator</OPTION2>
+<OPTION3>Project data bank</OPTION3>
+<OPTION4>Treasure house</OPTION4>
+<ANSWER>Project data bank</ANSWER>
+</Main>
+<Main>
+<QUESTION1>4</QUESTION1>
+<QUESTION>As per veloci-Q, in a project following V process model – the activity to define acceptance Test Plan is recommended as part of</QUESTION>
+<OPTION1>Project Planning phase</OPTION1>
+<OPTION2>RS phase</OPTION2>
+<OPTION3>Design Phase</OPTION3>
+<OPTION4>Acceptance Testing Phase</OPTION4>
+<ANSWER>RS phase</ANSWER>
+</Main>
+<Main>
+<QUESTION1>5</QUESTION1>
+<QUESTION>Which of the following is not a management review mechanism, where senior management reviews performance of projects/ organization with respect to Quality?</QUESTION>
+<OPTION1>PMR</OPTION1>
+<OPTION2>PIP board meeting</OPTION2>
+<OPTION3>MRM</OPTION3>
+<OPTION4>QIC</OPTION4>
+<ANSWER>PIP board meeting</ANSWER>
+</Main>
+<Main>
+<QUESTION1>6</QUESTION1>
+<QUESTION>The philosophy of "say what you do, do what you say" belongs to</QUESTION>
+<OPTION1>BS7799</OPTION1>
+<OPTION2>The Project Manager</OPTION2>
+<OPTION3>CMMI</OPTION3>
+<OPTION4>ISO</OPTION4>
+<ANSWER>ISO</ANSWER>
+</Main>
+<Main>
+<QUESTION1>7</QUESTION1>
+<QUESTION>Which of these are used to identify the Risks in the project?</QUESTION>
+<OPTION1>Past project data</OPTION1>
+<OPTION2>Risk Identification checklist</OPTION2>
+<OPTION3>Stake holder inputs</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>8</QUESTION1>
+<QUESTION>Effort Deviation means</QUESTION>
+<OPTION1>PM's effort allocated to the Team member</OPTION1>
+<OPTION2>Projected effort and planned effort</OPTION2>
+<OPTION3>Actually consumed effort only</OPTION3>
+<OPTION4>Variation between planned effort and actual effort+effort to go</OPTION4>
+<ANSWER>Variation between planned effort and actual effort+effort to go</ANSWER>
+</Main>
+<Main>
+<QUESTION1>9</QUESTION1>
+<QUESTION>What is the monthly mechanism to record and track metrics of the project?</QUESTION>
+<OPTION1>Work Plans</OPTION1>
+<OPTION2>PMR</OPTION2>
+<OPTION3>PDMR</OPTION3>
+<OPTION4>ASR</OPTION4>
+<ANSWER>PDMR</ANSWER>
+</Main>
+<Main>
+<QUESTION1>10</QUESTION1>
+<QUESTION>ISO stands for</QUESTION>
+<OPTION1>International Organization for Standardization</OPTION1>
+<OPTION2>International Systems Organization</OPTION2>
+<OPTION3>International Systems Orientation</OPTION3>
+<OPTION4>International Systems for Organization</OPTION4>
+<ANSWER>International Organization for Standardization</ANSWER>
+</Main>
+<Main>
+<QUESTION1>11</QUESTION1>
+<QUESTION>Process improvements can be suggested by anyone in Wipro</QUESTION>
+<OPTION1>TRUE</OPTION1>
+<OPTION2>FALSE</OPTION2>
+<ANSWER>TRUE</ANSWER>
+</Main>
+<Main>
+<QUESTION1>12</QUESTION1>
+<QUESTION>Quality is defined as</QUESTION>
+<OPTION1>Use of checklists and templates</OPTION1>
+<OPTION2>Ability of the product to meet stated or implicit needs of customers</OPTION2>
+<OPTION3>Set of process and procedures</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Ability of the product to meet stated or implicit needs of customers</ANSWER>
+</Main>
+<Main>
+<QUESTION1>13</QUESTION1>
+<QUESTION>An assessment consists of</QUESTION>
+<OPTION1>Interview of customers</OPTION1>
+<OPTION2>Questionnaire, Documents review and Interviews</OPTION2>
+<OPTION3>Review of quality System</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Questionnaire, Documents review and Interviews</ANSWER>
+</Main>
+<Main>
+<QUESTION1>14</QUESTION1>
+<QUESTION>Triggers for root cause analysis are documented in</QUESTION>
+<OPTION1>Quality Plan</OPTION1>
+<OPTION2>Master list of documents</OPTION2>
+<OPTION3>Project Dashboard</OPTION3>
+<OPTION4>Project Plan</OPTION4>
+<ANSWER>Project Plan</ANSWER>
+</Main>
+<Main>
+<QUESTION1>15</QUESTION1>
+<QUESTION>At organizational level, metrics are reviewed by management in</QUESTION>
+<OPTION1>Quality Improvement Council</OPTION1>
+<OPTION2>Management Review Meeting</OPTION2>
+<OPTION3>Quality Review Meeting</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Management Review Meeting</ANSWER>
+</Main>
+<Main>
+<QUESTION1>16</QUESTION1>
+<QUESTION>Modification of the approved process to suit the requirements of a project are documented in</QUESTION>
+<OPTION1>Veloci-Q</OPTION1>
+<OPTION2>Project Plan</OPTION2>
+<OPTION3>Master List of Process</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Project Plan</ANSWER>
+</Main>
+<Main>
+<QUESTION1>17</QUESTION1>
+<QUESTION>Planned and systematic activities performed to provide adequate confidence that an item/product conforms to requirements is</QUESTION>
+<OPTION1>Regression Testing</OPTION1>
+<OPTION2>Unit Testing</OPTION2>
+<OPTION3>Quality Assurance</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Quality Assurance</ANSWER>
+</Main>
+<Main>
+<QUESTION1>18</QUESTION1>
+<QUESTION>Wipro’s quality policy is</QUESTION>
+<OPTION1>Meet the needs and expectations of customers</OPTION1>
+<OPTION2>Achieve customer satisfaction by providing defect free products and services on time.</OPTION2>
+<OPTION3>Attain CMMi Level 5 compliance</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Achieve customer satisfaction by providing defect free products and services on time.</ANSWER>
+</Main>
+<Main>
+<QUESTION1>19</QUESTION1>
+<QUESTION>Group that focus on the tools used by projects and the impact of using tools is</QUESTION>
+<OPTION1>SQA</OPTION1>
+<OPTION2>SEPG</OPTION2>
+<OPTION3>Tools group</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Tools group</ANSWER>
+</Main>
+<Main>
+<QUESTION1>20</QUESTION1>
+<QUESTION>Configuration audits are verification mechanisms used to ensure that deliverables are:</QUESTION>
+<OPTION1>On schedule</OPTION1>
+<OPTION2>Defect free</OPTION2>
+<OPTION3>Consistent with requirements</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Consistent with requirements</ANSWER>
+</Main>
+<Main>
+<QUESTION1>21</QUESTION1>
+<QUESTION>Which of this is not the intended use of Metrics?</QUESTION>
+<OPTION1>To take appropriate decisions based on measured values</OPTION1>
+<OPTION2>To monitor individual performance</OPTION2>
+<OPTION3>To monitor the project performance</OPTION3>
+<OPTION4>To revise plans</OPTION4>
+<ANSWER>To monitor individual performance</ANSWER>
+</Main>
+<Main>
+<QUESTION1>22</QUESTION1>
+<QUESTION>The effectiveness of the Quality Management System is continuously improved through</QUESTION>
+<OPTION1>Quality group recruitments</OPTION1>
+<OPTION2>Audit results, corrective and preventive actions, CSATs, Management Review</OPTION2>
+<OPTION3>Sales reports, Balance sheets, Company audit reports</OPTION3>
+<OPTION4>Individual Performance appraisals</OPTION4>
+<ANSWER>Audit results, corrective and preventive actions, CSATs, Management Review</ANSWER>
+</Main>
+<Main>
+<QUESTION1>23</QUESTION1>
+<QUESTION>Quality Policy</QUESTION>
+<OPTION1>Is prepared for the Mission Quality Group</OPTION1>
+<OPTION2>Is used to rate the Mission Quality Group performance every year</OPTION2>
+<OPTION3>Should not be shown to the customer as it is very confidential</OPTION3>
+<OPTION4>States a clear commitment to quality and consistent with organization goals</OPTION4>
+<ANSWER>States a clear commitment to quality and consistent with organization goals</ANSWER>
+</Main>
+<Main>
+<QUESTION1>24</QUESTION1>
+<QUESTION>Prototype helps in validating</QUESTION>
+<OPTION1>Design</OPTION1>
+<OPTION2>Technology</OPTION2>
+<OPTION3>Requirements</OPTION3>
+<OPTION4>Technical skills</OPTION4>
+<ANSWER>Design</ANSWER>
+</Main>
+<Main>
+<QUESTION1>25</QUESTION1>
+<QUESTION>Organizational learning enters Veloci-Q through</QUESTION>
+<OPTION1>Queries and PIP</OPTION1>
+<OPTION2>Project Performance Analysis</OPTION2>
+<OPTION3>Audit findings</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>26</QUESTION1>
+<QUESTION>______is an initiative that involves measuring and analyzing business processes.</QUESTION>
+<OPTION1>Six Sigma</OPTION1>
+<OPTION2>Root Cause Analysis</OPTION2>
+<OPTION3>Pugh Matrix</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Six Sigma</ANSWER>
+</Main>
+<Main>
+<QUESTION1>27</QUESTION1>
+<QUESTION>In a six sigma project, the problem owner is</QUESTION>
+<OPTION1>Black Belt</OPTION1>
+<OPTION2>White Belt</OPTION2>
+<OPTION3>DM</OPTION3>
+<OPTION4>Green Belt</OPTION4>
+<ANSWER>Green Belt</ANSWER>
+</Main>
+<Main>
+<QUESTION1>28</QUESTION1>
+<QUESTION>A list of project documents, quality records and customer supplied documents are recorded in</QUESTION>
+<OPTION1>Master List of Documents</OPTION1>
+<OPTION2>Project Folder</OPTION2>
+<OPTION3>Document Bank</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Master List of Documents</ANSWER>
+</Main>
+<Main>
+<QUESTION1>29</QUESTION1>
+<QUESTION>Schedule deviation, effort deviation, field error rate are some of the metrics captured for</QUESTION>
+<OPTION1>Service projects</OPTION1>
+<OPTION2>Development projects</OPTION2>
+<OPTION3>Maintenance projects</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Development projects</ANSWER>
+</Main>
+<Main>
+<QUESTION1>30</QUESTION1>
+<QUESTION>Difference between actual end date and planned end date expressed as a % of planned duration is</QUESTION>
+<OPTION1>Requirements volatility</OPTION1>
+<OPTION2>Schedule volatility</OPTION2>
+<OPTION3>Schedule deviation</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Schedule deviation</ANSWER>
+</Main>
+<Main>
+<QUESTION1>31</QUESTION1>
+<QUESTION>Ratio of product size to total project effort is</QUESTION>
+<OPTION1>Effort Deviation</OPTION1>
+<OPTION2>Overall Productivity</OPTION2>
+<OPTION3>CUT productivity</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Overall Productivity</ANSWER>
+</Main>
+<Main>
+<QUESTION1>32</QUESTION1>
+<QUESTION>Acceptance criteria should be part of Requirement Specification (RS) document</QUESTION>
+<OPTION1>FALSE</OPTION1>
+<OPTION2>Can be part of RS if provided by customer</OPTION2>
+<OPTION3>TRUE</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>TRUE</ANSWER>
+</Main>
+<Main>
+<QUESTION1>33</QUESTION1>
+<QUESTION>__________are requests to make changes to baselined work products.</QUESTION>
+<OPTION1>Requirements</OPTION1>
+<OPTION2>Maintenance Request (MR)</OPTION2>
+<OPTION3>Change Request (CR)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Change Request (CR)</ANSWER>
+</Main>
+<Main>
+<QUESTION1>34</QUESTION1>
+<QUESTION>Wipro’s quality system is known as</QUESTION>
+<OPTION1>K-net</OPTION1>
+<OPTION2>WiqTree</OPTION2>
+<OPTION3>Veloci-Q</OPTION3>
+<OPTION4>Project Data Bank</OPTION4>
+<ANSWER>Veloci-Q</ANSWER>
+</Main>
+<Main>
+<QUESTION1>35</QUESTION1>
+<QUESTION>__________are the industry standards and benchmarks for quality.</QUESTION>
+<OPTION1>ChannelW</OPTION1>
+<OPTION2>Quality Models</OPTION2>
+<OPTION3>Six Sigma</OPTION3>
+<OPTION4>Veloci-Q</OPTION4>
+<ANSWER>Quality Models</ANSWER>
+</Main>
+<Main>
+<QUESTION1>36</QUESTION1>
+<QUESTION>In Veloci-Q, intentions and directions for quality initiative are documented in</QUESTION>
+<OPTION1>Policies section</OPTION1>
+<OPTION2>Procedure section</OPTION2>
+<OPTION3>Guidelines section</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Policies section</ANSWER>
+</Main>
+<Main>
+<QUESTION1>37</QUESTION1>
+<QUESTION>Process artifacts that help to perform project activities in a standard manner are</QUESTION>
+<OPTION1>Checklists and Templates</OPTION1>
+<OPTION2>Policies</OPTION2>
+<OPTION3>Procedures</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Checklists and Templates</ANSWER>
+</Main>
+<Main>
+<QUESTION1>38</QUESTION1>
+<QUESTION>The extent to which a specific process is defined, managed, measured and controlled within an organization is known as</QUESTION>
+<OPTION1>Procedures Capacity</OPTION1>
+<OPTION2>Software Process Maturity</OPTION2>
+<OPTION3>Measurememt Maturity</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Software Process Maturity</ANSWER>
+</Main>
+<Main>
+<QUESTION1>39</QUESTION1>
+<QUESTION>The two representations in the CMMI Framework are:</QUESTION>
+<OPTION1>Integrated and Continuous</OPTION1>
+<OPTION2>Integrated and Staged</OPTION2>
+<OPTION3>Staged and Continuous</OPTION3>
+<OPTION4>None of the Above</OPTION4>
+<ANSWER>Staged and Continuous</ANSWER>
+</Main>
+<Main>
+<QUESTION1>40</QUESTION1>
+<QUESTION>____________ documents all change requests to baselined items.</QUESTION>
+<OPTION1>Change Register</OPTION1>
+<OPTION2>Configuration Register</OPTION2>
+<OPTION3>Change Control Register</OPTION3>
+<OPTION4>Change Request Register</OPTION4>
+<ANSWER>Change Control Register</ANSWER>
+</Main>
+<Main>
+<QUESTION1>41</QUESTION1>
+<QUESTION>_________is used to document the features/functionality to be tested, test strategy and testing methods to be used.</QUESTION>
+<OPTION1>Test Form</OPTION1>
+<OPTION2>Test Plan</OPTION2>
+<OPTION3>Test development</OPTION3>
+<OPTION4>Test Design</OPTION4>
+<ANSWER>Test Plan</ANSWER>
+</Main>
+<Main>
+<QUESTION1>42</QUESTION1>
+<QUESTION>Project monitoring reviews are conducted to</QUESTION>
+<OPTION1>Review project progress</OPTION1>
+<OPTION2>Understand project requirements</OPTION2>
+<OPTION3>Monitor requirements volatility</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Review project progress</ANSWER>
+</Main>
+<Main>
+<QUESTION1>43</QUESTION1>
+<QUESTION>A Process basically defines :</QUESTION>
+<OPTION1>A new procedure to be implemented</OPTION1>
+<OPTION2>Who is doing what when and how to reach a specific goal</OPTION2>
+<OPTION3>A running Program</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Who is doing what when and how to reach a specific goal</ANSWER>
+</Main>
+<Main>
+<QUESTION1>44</QUESTION1>
+<QUESTION>The International Standard for Quality Assurance – ISO 9001 emphasizes on :</QUESTION>
+<OPTION1>Critical Component quality</OPTION1>
+<OPTION2>Product Quality</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Process Quality</OPTION4>
+<ANSWER>Process Quality</ANSWER>
+</Main>
+<Main>
+<QUESTION1>45</QUESTION1>
+<QUESTION>Which Lifecycle model emphasizes preparation of plans for validation during the early Life Cycle stages itself?</QUESTION>
+<OPTION1>Rational Unified Process Model</OPTION1>
+<OPTION2>Maintenance model</OPTION2>
+<OPTION3>2I Process Model</OPTION3>
+<OPTION4>V-Process Model</OPTION4>
+<ANSWER>V-Process Model</ANSWER>
+</Main>
+<Main>
+<QUESTION1>46</QUESTION1>
+<QUESTION>_______ is a monthly mechanism to track metric trends, exceptions of metrics and ensure Process Improvements in the Business Unit</QUESTION>
+<OPTION1>QICs</OPTION1>
+<OPTION2>PIP Board meetings</OPTION2>
+<OPTION3>Quality meet</OPTION3>
+<OPTION4>Look Ahead Meetings</OPTION4>
+<ANSWER>QICs</ANSWER>
+</Main>
+<Main>
+<QUESTION1>47</QUESTION1>
+<QUESTION>Organisation’s Customer Focus should meet the needs and expectations of:</QUESTION>
+<OPTION1>Suppliers and partners</OPTION1>
+<OPTION2>The customers and end users</OPTION2>
+<OPTION3>People in the Organisation</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>48</QUESTION1>
+<QUESTION>__________________ is a mechanism of maintaining the mapping between requirements and products resulting from the requirements.</QUESTION>
+<OPTION1>Design document</OPTION1>
+<OPTION2>Requirements Traceability</OPTION2>
+<OPTION3>Test cases</OPTION3>
+<OPTION4>Functional design</OPTION4>
+<ANSWER>Requirements Traceability</ANSWER>
+</Main>
+<Main>
+<QUESTION1>49</QUESTION1>
+<QUESTION>Voice Of Customer (VOC) can be used to</QUESTION>
+<OPTION1>Select requirements</OPTION1>
+<OPTION2>Requirements traceability</OPTION2>
+<OPTION3>Prioritize customer requirements</OPTION3>
+<OPTION4>Analyze customer requirements</OPTION4>
+<ANSWER>Analyze customer requirements</ANSWER>
+</Main>
+<Main>
+<QUESTION1>50</QUESTION1>
+<QUESTION>The CMMI level 5 stage is termed as a :</QUESTION>
+<OPTION1>Iterative stage</OPTION1>
+<OPTION2>Repeatable stage</OPTION2>
+<OPTION3>Optimizing stage</OPTION3>
+<OPTION4>Defined stage</OPTION4>
+<ANSWER>Optimizing stage</ANSWER>
+</Main>
+<Main>
+<QUESTION1>51</QUESTION1>
+<QUESTION>Project Performance Analysis (PPA) is an exercise which examines :</QUESTION>
+<OPTION1>Lessons learnt and best practices</OPTION1>
+<OPTION2>Conformance of requirements</OPTION2>
+<OPTION3>Individual performance</OPTION3>
+<OPTION4>Process Improvement Proposals</OPTION4>
+<ANSWER>Lessons learnt and best practices</ANSWER>
+</Main>
+<Main>
+<QUESTION1>52</QUESTION1>
+<QUESTION>A NCR (Non Conformance Report) signifies :</QUESTION>
+<OPTION1>Deviation from a stated process</OPTION1>
+<OPTION2>Failure of ISO certification</OPTION2>
+<OPTION3>Observation</OPTION3>
+<OPTION4>Deviation of coding standard</OPTION4>
+<ANSWER>Deviation from a stated process</ANSWER>
+</Main>
+<Main>
+<QUESTION1>53</QUESTION1>
+<QUESTION>The Assessment methodology defined by SEI for the CMMI model is</QUESTION>
+<OPTION1>PVPD</OPTION1>
+<OPTION2>CAQ</OPTION2>
+<OPTION3>CBAIPI</OPTION3>
+<OPTION4>SCAMPI</OPTION4>
+<ANSWER>SCAMPI</ANSWER>
+</Main>
+<Main>
+<QUESTION1>54</QUESTION1>
+<QUESTION>How many Process Areas are there in CMMI:</QUESTION>
+<OPTION1>24</OPTION1>
+<OPTION2>28</OPTION2>
+<OPTION3>23</OPTION3>
+<OPTION4>18</OPTION4>
+<ANSWER>24</ANSWER>
+</Main>
+<Main>
+<QUESTION1>55</QUESTION1>
+<QUESTION>What is the 3rd level in CMMI called?</QUESTION>
+<OPTION1>Optimized</OPTION1>
+<OPTION2>Controlled</OPTION2>
+<OPTION3>Managed</OPTION3>
+<OPTION4>Defined</OPTION4>
+<ANSWER>Defined</ANSWER>
+</Main>
+<Main>
+<QUESTION1>56</QUESTION1>
+<QUESTION>In the execution of maintenance projects each trigger from the customer is recorded in a:</QUESTION>
+<OPTION1>Change Request</OPTION1>
+<OPTION2>MR</OPTION2>
+<OPTION3>PMR</OPTION3>
+<OPTION4>Change control Register</OPTION4>
+<ANSWER>MR</ANSWER>
+</Main>
+<Main>
+<QUESTION1>57</QUESTION1>
+<QUESTION>In CMMI the Level 2 stage is described as</QUESTION>
+<OPTION1>Optimized</OPTION1>
+<OPTION2>defined</OPTION2>
+<OPTION3>Managed</OPTION3>
+<OPTION4>Repeatable</OPTION4>
+<ANSWER>Managed</ANSWER>
+</Main>
+<Main>
+<QUESTION1>58</QUESTION1>
+<QUESTION>Project monitoring reviews are conducted :</QUESTION>
+<OPTION1>On a monthly basis</OPTION1>
+<OPTION2>By the SQA Team periodically</OPTION2>
+<OPTION3>Whenever we have a client release</OPTION3>
+<OPTION4>In the external audit meeting</OPTION4>
+<ANSWER>On a monthly basis</ANSWER>
+</Main>
+<Main>
+<QUESTION1>59</QUESTION1>
+<QUESTION>Which of these is not true regarding an Observation recorded during an audit</QUESTION>
+<OPTION1>This is a suggestion for improvement</OPTION1>
+<OPTION2>This is a deviation from the stated process</OPTION2>
+<OPTION3>This does not need closure</OPTION3>
+<OPTION4>It could be a potential for non-conformance in future</OPTION4>
+<ANSWER>This is a deviation from the stated process</ANSWER>
+</Main>
+<Main>
+<QUESTION1>60</QUESTION1>
+<QUESTION>The different categories of Lifecycle models are</QUESTION>
+<OPTION1>V-process model, 2i, RUP</OPTION1>
+<OPTION2>iPAT, veloci-Q, Six Sigma</OPTION2>
+<OPTION3>Development, maintenance, service, testing etc</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>V-process model, 2i, RUP</ANSWER>
+</Main>
+<Main>
+<QUESTION1>61</QUESTION1>
+<QUESTION>In order to achieve customer satsifaction, the team should </QUESTION>
+<OPTION1>Elicit parameters that are critical to quality from customers</OPTION1>
+<OPTION2>Collect data and metrics</OPTION2>
+<OPTION3>Track project performance</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>62</QUESTION1>
+<QUESTION>The mechanism for obtaining customer feedback at project closure as per veloci-Q is:</QUESTION>
+<OPTION1>Call the customer and obtain feedback</OPTION1>
+<OPTION2>Create a feedback form and send it</OPTION2>
+<OPTION3>Use template in veloci-Q as a feedback form, tailor the feedback form by including project specific questions</OPTION3>
+<OPTION4>An acceptance mail from the customer post project completion will suffice</OPTION4>
+<ANSWER>Use template in veloci-Q as a feedback form, tailor the feedback form by including project specific questions</ANSWER>
+</Main>
+<Main>
+<QUESTION1>63</QUESTION1>
+<QUESTION>Customer Satisfaction survey is conducted to</QUESTION>
+<OPTION1>Obtain feedback on delivery by Wipro</OPTION1>
+<OPTION2>Obtain feedback on the engagement with Wipro</OPTION2>
+<OPTION3>A and B</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>A and B</ANSWER>
+</Main>
+<Main>
+<QUESTION1>64</QUESTION1>
+<QUESTION>ISO, CMM, Six Sigma are_______</QUESTION>
+<OPTION1>Coding Standards</OPTION1>
+<OPTION2>Quality models</OPTION2>
+<OPTION3>Tools</OPTION3>
+<OPTION4>Programming Languages</OPTION4>
+<ANSWER>Quality models</ANSWER>
+</Main>
+<Main>
+<QUESTION1>65</QUESTION1>
+<QUESTION>The process followed in the software development project should be:</QUESTION>
+<OPTION1>Processes as described in velociQ.</OPTION1>
+<OPTION2>Client specified processes</OPTION2>
+<OPTION3>Tailored ODC specific processes</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>66</QUESTION1>
+<QUESTION>Which of this is a planned mechanism for Defect Prevention?</QUESTION>
+<OPTION1>Look Ahead Meetings</OPTION1>
+<OPTION2>Customer feedback</OPTION2>
+<OPTION3>PDMR and PMR reviews</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Look Ahead Meetings</ANSWER>
+</Main>
+<Main>
+<QUESTION1>67</QUESTION1>
+<QUESTION>Deviations from the stated processes that are identified during the audit are recorded as</QUESTION>
+<OPTION1>Process Improvement Proposal</OPTION1>
+<OPTION2>Creation of Work Plans</OPTION2>
+<OPTION3>Non-Conformances</OPTION3>
+<OPTION4>Process Improvement and Process Development</OPTION4>
+<ANSWER>Non-Conformances</ANSWER>
+</Main>
+<Main>
+<QUESTION1>68</QUESTION1>
+<QUESTION>veloci-Q has a ____ -tier architecture</QUESTION>
+<OPTION1>Multi-dimensional</OPTION1>
+<OPTION2>3</OPTION2>
+<OPTION3>2</OPTION3>
+<OPTION4>4</OPTION4>
+<ANSWER>3</ANSWER>
+</Main>
+<Main>
+<QUESTION1>69</QUESTION1>
+<QUESTION>A “Surveillance audit “is conducted by:</QUESTION>
+<OPTION1>SQA and SEPG</OPTION1>
+<OPTION2>Delivery Manager</OPTION2>
+<OPTION3>Project Managers coordinated by SEPG</OPTION3>
+<OPTION4>External certification agency</OPTION4>
+<ANSWER>External certification agency</ANSWER>
+</Main>
+<Main>
+<QUESTION1>70</QUESTION1>
+<QUESTION>Wipro Technologies is assessed as a CMMI _____Organization</QUESTION>
+<OPTION1>4</OPTION1>
+<OPTION2>5</OPTION2>
+<OPTION3>It is assessed at CMM only, but no level of CMMi</OPTION3>
+<OPTION4>3</OPTION4>
+<ANSWER>5</ANSWER>
+</Main>
+<Main>
+<QUESTION1>71</QUESTION1>
+<QUESTION>Release note is prepared :</QUESTION>
+<OPTION1>To explain the project closure norms</OPTION1>
+<OPTION2>Prior to the release , contains the list of software items</OPTION2>
+<OPTION3>After the final test case is executed</OPTION3>
+<OPTION4>On acceptance of the release</OPTION4>
+<ANSWER>Prior to the release , contains the list of software items</ANSWER>
+</Main>
+<Main>
+<QUESTION1>72</QUESTION1>
+<QUESTION>A project can be initiated based on</QUESTION>
+<OPTION1>DM’s preference to develop his favorite application</OPTION1>
+<OPTION2>The contract signed by the customer</OPTION2>
+<OPTION3>DM wanting his team to understand a technology</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>The contract signed by the customer</ANSWER>
+</Main>
+<Main>
+<QUESTION1>73</QUESTION1>
+<QUESTION>Which of the following would help us in deriving the projects specific process from the organization’s standard process?</QUESTION>
+<OPTION1>Process guidelines</OPTION1>
+<OPTION2>Life Cycle models</OPTION2>
+<OPTION3>Project Procedures</OPTION3>
+<OPTION4>Tailoring Guidelines</OPTION4>
+<ANSWER>Tailoring Guidelines</ANSWER>
+</Main>
+<Main>
+<QUESTION1>74</QUESTION1>
+<QUESTION>We take customer complaint seriously</QUESTION>
+<OPTION1>TRUE</OPTION1>
+<OPTION2>FALSE</OPTION2>
+<ANSWER>TRUE</ANSWER>
+</Main>
+<Main>
+<QUESTION1>75</QUESTION1>
+<QUESTION>Corrective and Preventive Action Plan should be drawn for:</QUESTION>
+<OPTION1>Customer feedback ratings</OPTION1>
+<OPTION2>Customer complaints received</OPTION2>
+<OPTION3>Actions from Customer Satisfaction surveys</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>76</QUESTION1>
+<QUESTION>The Six Sigma technique/tool recommended for use of Risk Analysis is</QUESTION>
+<OPTION1>FMEA</OPTION1>
+<OPTION2>Pugh Matrix</OPTION2>
+<OPTION3>Voice of Customer</OPTION3>
+<OPTION4>RCA</OPTION4>
+<ANSWER>FMEA</ANSWER>
+</Main>
+<Main>
+<QUESTION1>77</QUESTION1>
+<QUESTION>Which metric is used for tracking change in requirements?</QUESTION>
+<OPTION1>Requirements Volatility</OPTION1>
+<OPTION2>CRs Index</OPTION2>
+<OPTION3>Requirements Change Index</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Requirements Volatility</ANSWER>
+</Main>
+<Main>
+<QUESTION1>78</QUESTION1>
+<QUESTION>Purpose of Project performance report is to</QUESTION>
+<OPTION1>Compute average time it takes for screens to load</OPTION1>
+<OPTION2>Restart the project again at a future date</OPTION2>
+<OPTION3>Provide the project team appropriate reward</OPTION3>
+<OPTION4>Record the learning’s from the project for future reference</OPTION4>
+<ANSWER>Record the learning’s from the project for future reference</ANSWER>
+</Main>
+<Main>
+<QUESTION1>79</QUESTION1>
+<QUESTION>It is mandatory to take corrective and preventive actions for</QUESTION>
+<OPTION1>Observations</OPTION1>
+<OPTION2>Customer complaints</OPTION2>
+<OPTION3>Non-conformances</OPTION3>
+<OPTION4>Both (b) and (c )</OPTION4>
+<ANSWER>Both (b) and (c )</ANSWER>
+</Main>
+<Main>
+<QUESTION1>80</QUESTION1>
+<QUESTION>____is a cluster of related practices that are performed collectively to achieve a set of objectives.</QUESTION>
+<OPTION1>Channel W</OPTION1>
+<OPTION2>Quality System</OPTION2>
+<OPTION3>Process Area</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Process Area</ANSWER>
+</Main>
+<Main>
+<QUESTION1>81</QUESTION1>
+<QUESTION>In CMMi context ____is a collaborative effort to find strengths and improvement areas.</QUESTION>
+<OPTION1>Appraisal</OPTION1>
+<OPTION2>Audit</OPTION2>
+<OPTION3>Assessment</OPTION3>
+<OPTION4>Observation</OPTION4>
+<ANSWER>Assessment</ANSWER>
+</Main>
+<Main>
+<QUESTION1>82</QUESTION1>
+<QUESTION>DPMO stands for_____</QUESTION>
+<OPTION1>Defects per million opportunities</OPTION1>
+<OPTION2>Derivations per million opportunities</OPTION2>
+<OPTION3>Defects per million occasions</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Defects per million opportunities</ANSWER>
+</Main>
+<Main>
+<QUESTION1>83</QUESTION1>
+<QUESTION>DSSS, DMAIC and TQSS are six sigma methodologies used for</QUESTION>
+<OPTION1>Defect Reduction</OPTION1>
+<OPTION2>Reduction of cycle time</OPTION2>
+<OPTION3>Cost calculations</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Defect Reduction</ANSWER>
+</Main>
+<Main>
+<QUESTION1>84</QUESTION1>
+<QUESTION>_____is a repository of data and learning from closed projects.</QUESTION>
+<OPTION1>Six Sigma</OPTION1>
+<OPTION2>Project Data Bank</OPTION2>
+<OPTION3>Veloci-Q</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Project Data Bank</ANSWER>
+</Main>
+<Main>
+<QUESTION1>85</QUESTION1>
+<QUESTION>_____is used for tracking and monitoring risks.</QUESTION>
+<OPTION1>Risk Management plan</OPTION1>
+<OPTION2>Risk Identification checklist</OPTION2>
+<OPTION3>Project plan</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Risk Management plan</ANSWER>
+</Main>
+<Main>
+<QUESTION1>86</QUESTION1>
+<QUESTION>The CMMi model was developed by</QUESTION>
+<OPTION1>Motorola</OPTION1>
+<OPTION2>Software Engineering Institute</OPTION2>
+<OPTION3>Wipro</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Software Engineering Institute</ANSWER>
+</Main>
+<Main>
+<QUESTION1>87</QUESTION1>
+<QUESTION>Work items that would undergo changes during product life cycle are known as</QUESTION>
+<OPTION1>Configuration Items</OPTION1>
+<OPTION2>Change Items</OPTION2>
+<OPTION3>Product Items</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Configuration Items</ANSWER>
+</Main>
+<Main>
+<QUESTION1>88</QUESTION1>
+<QUESTION>Practitioners working on projects can suggest process improvements through a</QUESTION>
+<OPTION1>Process Improvement Proposal</OPTION1>
+<OPTION2>Change Request</OPTION2>
+<OPTION3>Email/Phone</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Process Improvement Proposal</ANSWER>
+</Main>
+<Main>
+<QUESTION1>89</QUESTION1>
+<QUESTION>Bureau of India Standards emphasizes on</QUESTION>
+<OPTION1>Project Quality</OPTION1>
+<OPTION2>Process Quality</OPTION2>
+<OPTION3>Quality Models</OPTION3>
+<OPTION4>Product Quality</OPTION4>
+<ANSWER>Product Quality</ANSWER>
+</Main>
+<Main>
+<QUESTION1>90</QUESTION1>
+<QUESTION>In a project context, who needs to do what is documented in</QUESTION>
+<OPTION1>Guidelines section</OPTION1>
+<OPTION2>Policies section</OPTION2>
+<OPTION3>Procedure section</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Procedure section</ANSWER>
+</Main>
+<Main>
+<QUESTION1>91</QUESTION1>
+<QUESTION>The philosophy of ISO is based on the key principles like:</QUESTION>
+<OPTION1>Act upon the findings</OPTION1>
+<OPTION2>Say what you do, do what you say</OPTION2>
+<OPTION3>Record what you did and check the results</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>92</QUESTION1>
+<QUESTION>__________ matrix is an aid to trace requirements across different phases of development.</QUESTION>
+<OPTION1>Change request</OPTION1>
+<OPTION2>Requirements</OPTION2>
+<OPTION3>Traceability</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Traceability</ANSWER>
+</Main>
+<Main>
+<QUESTION1>93</QUESTION1>
+<QUESTION>________ is defined as any adverse event that is likely to occur.</QUESTION>
+<OPTION1>Disaster recovery</OPTION1>
+<OPTION2>Change request</OPTION2>
+<OPTION3>Risk</OPTION3>
+<OPTION4>Maintenance request</OPTION4>
+<ANSWER>Risk</ANSWER>
+</Main>
+<Main>
+<QUESTION1>94</QUESTION1>
+<QUESTION>The process model applicable to projects that involve development of new products or major enhancements to existing products is</QUESTION>
+<OPTION1>Iterative process model</OPTION1>
+<OPTION2>V-process model</OPTION2>
+<OPTION3>Waterfall process model</OPTION3>
+<OPTION4>None of the above.</OPTION4>
+<ANSWER>Iterative process model</ANSWER>
+</Main>
+<Main>
+<QUESTION1>95</QUESTION1>
+<QUESTION>The role of a person who facilitates the six sigma team project to align with the methodology is:</QUESTION>
+<OPTION1>Green Belt</OPTION1>
+<OPTION2>Champion</OPTION2>
+<OPTION3>Yellow Belt</OPTION3>
+<OPTION4>Black Belt</OPTION4>
+<ANSWER>Black Belt</ANSWER>
+</Main>
+<Main>
+<QUESTION1>96</QUESTION1>
+<QUESTION>______________ in the Configuration Management (CM) process represents the snapshot of a set of deliverables at a given point in time.</QUESTION>
+<OPTION1>Configuration Audits</OPTION1>
+<OPTION2>Baselines</OPTION2>
+<OPTION3>Configuration Items</OPTION3>
+<OPTION4>CCB</OPTION4>
+<ANSWER>Baselines</ANSWER>
+</Main>
+<Main>
+<QUESTION1>97</QUESTION1>
+<QUESTION>In Wipro, a quality group is </QUESTION>
+<OPTION1>Part of project team</OPTION1>
+<OPTION2>Part of a vertical</OPTION2>
+<OPTION3>Separate group headed by Chief Quality Officer</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Separate group headed by Chief Quality Officer</ANSWER>
+</Main>
+<Main>
+<QUESTION1>98</QUESTION1>
+<QUESTION>CMMi model outlines _____levels of maturity.</QUESTION>
+<OPTION1>3</OPTION1>
+<OPTION2>5</OPTION2>
+<OPTION3>6</OPTION3>
+<OPTION4>8</OPTION4>
+<ANSWER>5</ANSWER>
+</Main>
+<Main>
+<QUESTION1>99</QUESTION1>
+<QUESTION>Statistical term that describes the amount of variation in data</QUESTION>
+<OPTION1>Standard Deviation</OPTION1>
+<OPTION2>Six Sigma</OPTION2>
+<OPTION3>Normal Distribution</OPTION3>
+<OPTION4>Median</OPTION4>
+<ANSWER>Standard Deviation</ANSWER>
+</Main>
+<Main>
+<QUESTION1>100</QUESTION1>
+<QUESTION>The quality group responsible for process definition, metrics analysis and quality assurance activities at vertical/group vertical level is</QUESTION>
+<OPTION1>Tools Group</OPTION1>
+<OPTION2>SQA</OPTION2>
+<OPTION3>SEPG</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>SQA</ANSWER>
+</Main>
+<Main>
+<QUESTION1>101</QUESTION1>
+<QUESTION>Modification of the approved process to suit the requirements of a project is known as</QUESTION>
+<OPTION1>Process Tailoring</OPTION1>
+<OPTION2>Process Approval</OPTION2>
+<OPTION3>Process Deviation</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Process Tailoring</ANSWER>
+</Main>
+<Main>
+<QUESTION1>102</QUESTION1>
+<QUESTION>_________ serves as an important verification activity to ensure the completeness of testing in order to ensure product quality.</QUESTION>
+<OPTION1>Test Audit</OPTION1>
+<OPTION2>Integration Testing</OPTION2>
+<OPTION3>Unit Testing</OPTION3>
+<OPTION4>System testing</OPTION4>
+<ANSWER>Test Audit</ANSWER>
+</Main>
+<Main>
+<QUESTION1>103</QUESTION1>
+<QUESTION>Achieving the goal of Six Sigma means your product will be defect free to an extent of:</QUESTION>
+<OPTION1>13.5 defects per million opportunities</OPTION1>
+<OPTION2>4.3 defects per million opportunities</OPTION2>
+<OPTION3>3.4 defects per million opportunities</OPTION3>
+<OPTION4>4.4 defects per million opportunities</OPTION4>
+<ANSWER>3.4 defects per million opportunities</ANSWER>
+</Main>
+<Main>
+<QUESTION1>104</QUESTION1>
+<QUESTION>_______ is a process of examining whether the process conforms to the defined quality system:</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>Audit</OPTION2>
+<OPTION3>Assessment</OPTION3>
+<OPTION4>Testing</OPTION4>
+<ANSWER>Audit</ANSWER>
+</Main>
+<Main>
+<QUESTION1>105</QUESTION1>
+<QUESTION>Maintenance Process Model is best suited for</QUESTION>
+<OPTION1>Minor functional enhancements or performance improvement of the existing software</OPTION1>
+<OPTION2>Problem resolution on existing software products</OPTION2>
+<OPTION3>Interface modification due to changes in hardware or software environment</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>106</QUESTION1>
+<QUESTION>You are a Project Engineer who has just joined Wipro. You want to know best practices from projects executed in Wipro. Where would you go?</QUESTION>
+<OPTION1>Treasure House</OPTION1>
+<OPTION2>Navigator</OPTION2>
+<OPTION3>PDB</OPTION3>
+<OPTION4>Guidelines</OPTION4>
+<ANSWER>Treasure House</ANSWER>
+</Main>
+<Main>
+<QUESTION1>107</QUESTION1>
+<QUESTION>Which feature of velociQ helps in getting Activity Based views?</QUESTION>
+<OPTION1>PIP DB</OPTION1>
+<OPTION2>Navigator</OPTION2>
+<OPTION3>Project data bank</OPTION3>
+<OPTION4>Treasure house</OPTION4>
+<ANSWER>Navigator</ANSWER>
+</Main>
+<Main>
+<QUESTION1>108</QUESTION1>
+<QUESTION>Which of the following is review mechanism, where senior management reviews performance of projects with respect to Quality?</QUESTION>
+<OPTION1>PMR</OPTION1>
+<OPTION2>MRM</OPTION2>
+<OPTION3>QIC</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>109</QUESTION1>
+<QUESTION>Which of the following provides details on metrics performance for project :</QUESTION>
+<OPTION1>Execution Process Plan</OPTION1>
+<OPTION2>PDMR</OPTION2>
+<OPTION3>Project Vision</OPTION3>
+<OPTION4>Resource Plan</OPTION4>
+<ANSWER>PDMR</ANSWER>
+</Main>
+<Main>
+<QUESTION1>110</QUESTION1>
+<QUESTION>_____is the monthly mechanism to record and track metrics of the projects</QUESTION>
+<OPTION1>Work Plans</OPTION1>
+<OPTION2>PMR</OPTION2>
+<OPTION3>PDMR</OPTION3>
+<OPTION4>ASR</OPTION4>
+<ANSWER>PDMR</ANSWER>
+</Main>
+<Main>
+<QUESTION1>111</QUESTION1>
+<QUESTION>Process improvements cannot be suggested by anyone in Wipro</QUESTION>
+<OPTION1>TRUE</OPTION1>
+<OPTION2>FALSE</OPTION2>
+<ANSWER>FALSE</ANSWER>
+</Main>
+<Main>
+<QUESTION1>112</QUESTION1>
+<QUESTION>At vertical level, metrics are reviewed by management in</QUESTION>
+<OPTION1>Quality Improvement Council</OPTION1>
+<OPTION2>Management Review Meeting</OPTION2>
+<OPTION3>Quality Review Meeting</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Quality Improvement Council</ANSWER>
+</Main>
+<Main>
+<QUESTION1>113</QUESTION1>
+<QUESTION>Group that works on the definition of the procedures and guidelines used by projects is</QUESTION>
+<OPTION1>SQA</OPTION1>
+<OPTION2>SEPG</OPTION2>
+<OPTION3>Tools group</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>SEPG</ANSWER>
+</Main>
+<Main>
+<QUESTION1>114</QUESTION1>
+<QUESTION>Testing helps in validating__________</QUESTION>
+<OPTION1>Design</OPTION1>
+<OPTION2>Technology</OPTION2>
+<OPTION3>Requirements</OPTION3>
+<OPTION4>Technical skills</OPTION4>
+<ANSWER>Requirements</ANSWER>
+</Main>
+<Main>
+<QUESTION1>115</QUESTION1>
+<QUESTION>New process enters velociQ through</QUESTION>
+<OPTION1>Queries and PIP</OPTION1>
+<OPTION2>Project Performance Analysis</OPTION2>
+<OPTION3>Audit findings</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>116</QUESTION1>
+<QUESTION>In a six sigma project, the mentor / facilitator is a __________</QUESTION>
+<OPTION1>Black Belt</OPTION1>
+<OPTION2>White Belt</OPTION2>
+<OPTION3>DM</OPTION3>
+<OPTION4>Green Belt</OPTION4>
+<ANSWER>Black Belt</ANSWER>
+</Main>
+<Main>
+<QUESTION1>117</QUESTION1>
+<QUESTION>Difference between actual effort and planned effort expressed as a % of planned effort is</QUESTION>
+<OPTION1>Requirements volatility</OPTION1>
+<OPTION2>Schedule volatility</OPTION2>
+<OPTION3>Effort deviation</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Effort deviation</ANSWER>
+</Main>
+<Main>
+<QUESTION1>118</QUESTION1>
+<QUESTION>Ratio of product size to effort in coding and unit testing phase is</QUESTION>
+<OPTION1>Effort Deviation</OPTION1>
+<OPTION2>Overall Productivity</OPTION2>
+<OPTION3>CUT productivity</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>CUT productivity</ANSWER>
+</Main>
+<Main>
+<QUESTION1>119</QUESTION1>
+<QUESTION>Which model is not used for new product development?</QUESTION>
+<OPTION1>V-Process model</OPTION1>
+<OPTION2>Iterative Process model</OPTION2>
+<OPTION3>Production Support process model</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Production Support process model</ANSWER>
+</Main>
+<Main>
+<QUESTION1>120</QUESTION1>
+<QUESTION>In Veloci-Q, three tier structures consist of which section?</QUESTION>
+<OPTION1>Policies section</OPTION1>
+<OPTION2>Procedure section</OPTION2>
+<OPTION3>Guidelines section</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>121</QUESTION1>
+<QUESTION>Checklists &amp; templates are process artifacts that help to perform project activities in a standard manner</QUESTION>
+<OPTION1>TRUE</OPTION1>
+<OPTION2>FALSE</OPTION2>
+<OPTION3>Checklist &amp; template are not mandatory</OPTION3>
+<OPTION4>Checklist &amp; template are not process artifacts</OPTION4>
+<ANSWER>TRUE</ANSWER>
+</Main>
+<Main>
+<QUESTION1>122</QUESTION1>
+<QUESTION>Change Control Register documents all change requests to baselined items</QUESTION>
+<OPTION1>TRUE</OPTION1>
+<OPTION2>FALSE</OPTION2>
+<ANSWER>TRUE</ANSWER>
+</Main>
+<Main>
+<QUESTION1>123</QUESTION1>
+<QUESTION>_________ is a technique used for capturing and analyzing customer requirements.</QUESTION>
+<OPTION1>Quality Function Deployment (QFD)</OPTION1>
+<OPTION2>Pugh matrix</OPTION2>
+<OPTION3>Voice Of Customer (VOC)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Voice Of Customer (VOC)</ANSWER>
+</Main>
+<Main>
+<QUESTION1>124</QUESTION1>
+<QUESTION>Which of the following can be used to validate customer requirements</QUESTION>
+<OPTION1>LOC</OPTION1>
+<OPTION2>Testing</OPTION2>
+<OPTION3>Function points</OPTION3>
+<OPTION4>Voice Of Customer (VOC)</OPTION4>
+<ANSWER>Testing</ANSWER>
+</Main>
+<Main>
+<QUESTION1>125</QUESTION1>
+<QUESTION>What is the 5th level in CMMI called?</QUESTION>
+<OPTION1>Optimized</OPTION1>
+<OPTION2>Controlled</OPTION2>
+<OPTION3>Managed</OPTION3>
+<OPTION4>Defined</OPTION4>
+<ANSWER>Optimized</ANSWER>
+</Main>
+<Main>
+<QUESTION1>126</QUESTION1>
+<QUESTION>In CMMI Level 4 stage is described as?</QUESTION>
+<OPTION1>Optimized</OPTION1>
+<OPTION2>Defined</OPTION2>
+<OPTION3>Managed</OPTION3>
+<OPTION4>Repeatable</OPTION4>
+<ANSWER>Repeatable</ANSWER>
+</Main>
+<Main>
+<QUESTION1>127</QUESTION1>
+<QUESTION>The different categories of development Lifecycle models are</QUESTION>
+<OPTION1>V-process model, 2i, RUP</OPTION1>
+<OPTION2>iPAT, veloci-Q, Six Sigma</OPTION2>
+<OPTION3>Development, maintenance, service, testing etc</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>V-process model, 2i, RUP</ANSWER>
+</Main>
+<Main>
+<QUESTION1>128</QUESTION1>
+<QUESTION>Who is responsible for preparing the estimate?</QUESTION>
+<OPTION1>Business Development Manager</OPTION1>
+<OPTION2>Presales staff</OPTION2>
+<OPTION3>Delivery Manager</OPTION3>
+<OPTION4>Project Manager</OPTION4>
+<ANSWER>Project Manager</ANSWER>
+</Main>
+<Main>
+<QUESTION1>129</QUESTION1>
+<QUESTION>Which of this is planned mechanism for progress reviews?</QUESTION>
+<OPTION1>Look Ahead Meetings</OPTION1>
+<OPTION2>Customer feedback</OPTION2>
+<OPTION3>PDMR and PMR reviews</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>PDMR and PMR reviews</ANSWER>
+</Main>
+<Main>
+<QUESTION1>130</QUESTION1>
+<QUESTION>Choose the right one: Process model suitable for development project.</QUESTION>
+<OPTION1>Waterfall Development model</OPTION1>
+<OPTION2>Iterative model</OPTION2>
+<OPTION3>V-Process model</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>131</QUESTION1>
+<QUESTION>The set of actions to be taken when the probable risks occur ; are documented as a part of</QUESTION>
+<OPTION1>Defect Prevention Report</OPTION1>
+<OPTION2>Risk Tracker</OPTION2>
+<OPTION3>Mitigation Plan</OPTION3>
+<OPTION4>Contingency plan</OPTION4>
+<ANSWER>Mitigation Plan</ANSWER>
+</Main>
+<Main>
+<QUESTION1>132</QUESTION1>
+<QUESTION>The Six Sigma technique/tool recommended for Analyzing Requirements is</QUESTION>
+<OPTION1>FMEA</OPTION1>
+<OPTION2>Pugh Matrix</OPTION2>
+<OPTION3>Voice of Customer</OPTION3>
+<OPTION4>RCA</OPTION4>
+<ANSWER>Voice of Customer</ANSWER>
+</Main>
+<Main>
+<QUESTION1>133</QUESTION1>
+<QUESTION>DMAIC stands for</QUESTION>
+<OPTION1>Do, Measure , Add, Improve, Control</OPTION1>
+<OPTION2>Define, Measure , Add, Improve, Control</OPTION2>
+<OPTION3>Define, Measure , Analyze, Improve, Control</OPTION3>
+<OPTION4>Define, Measure , Add, Improve, Check</OPTION4>
+<ANSWER>Define, Measure , Analyze, Improve, Control</ANSWER>
+</Main>
+<Main>
+<QUESTION1>134</QUESTION1>
+<QUESTION>In project context what is  to be done how is documented in</QUESTION>
+<OPTION1>Guidelines section</OPTION1>
+<OPTION2>Policies section</OPTION2>
+<OPTION3>Procedure section</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Guidelines section</ANSWER>
+</Main>
+<Main>
+<QUESTION1>135</QUESTION1>
+<QUESTION>__________ is a method to track changes in requirements across different phases of development.</QUESTION>
+<OPTION1>Change request</OPTION1>
+<OPTION2>Requirements</OPTION2>
+<OPTION3>Traceability</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Change request</ANSWER>
+        
+</Main>
+<Main>
+<QUESTION1>136</QUESTION1>
+<QUESTION>The managed services framework in Wipro Technologies is governed by __________ standard.</QUESTION>
+<OPTION1>ISO 9001</OPTION1>
+<OPTION2>ISO 14001</OPTION2>
+<OPTION3>ISO 20000</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER> ISO 20000</ANSWER>
+</Main>
+<Main>
+<QUESTION1>137</QUESTION1>
+<QUESTION>Which of the following is not a valid phase of managed services life cycle in Wipro Technologies?</QUESTION>
+<OPTION1>Design</OPTION1>
+<OPTION2>Transition</OPTION2>
+<OPTION3>Due Diligence</OPTION3>
+<OPTION4>Reverse Transition</OPTION4>
+<ANSWER>Design</ANSWER>
+</Main>
+<Main>
+<QUESTION1>138</QUESTION1>
+<QUESTION>OLA in Managed Services stands for</QUESTION>
+<OPTION1>Operational Level Contract</OPTION1>
+<OPTION2>Operational Level Agreement</OPTION2>
+<OPTION3>opportunity Lost Analysis</OPTION3>
+<OPTION4>None of the Above</OPTION4>
+<ANSWER>Operational Level Agreement</ANSWER>
+</Main>
+<Main>
+<QUESTION1>139</QUESTION1>
+<QUESTION>Outcome based agreements typically include</QUESTION>
+<OPTION1>SLA</OPTION1>
+<OPTION2>OLA</OPTION2>
+<OPTION3>UC</OPTION3>
+<OPTION4>All of the Above</OPTION4>
+<ANSWER>All of the Above</ANSWER>
+</Main>
+<Main>
+<QUESTION1>140</QUESTION1>
+<QUESTION>Managed Services engagements typically</QUESTION>
+<OPTION1>Don't need any governance</OPTION1>
+<OPTION2>Are governed by a contract as desired by the customer</OPTION2>
+<OPTION3>Are governed by outcome based agreement</OPTION3>
+<OPTION4>None of the Above</OPTION4>
+<ANSWER>Are governed by outcome based agreement</ANSWER>
+</Main>
+</NewDataSet>
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+        <instxt>
+                <txt id="intro1">Assess Yourself!</txt>
+                <txt id="intro2">You have to answer 25 multiple choice questions.</txt>
+                <txt id="intro3">You need to score a minimum of 70% to pass the test.</txt>
+                <txt id="intro4">Click Enter to begin the test.</txt>
+                <txt id="intro5">All the Best!</txt>
+                <txt id="intro6">Assessment - Result</txt>
+                <txt id="intro7">Your score</txt>
+                <txt id="intro8"></txt>
+                <txt id="intro9">Reviews and Testing Assessment</txt>
+                <txt id="intro10">Click the Correct Option.</txt>
+                <txt id="intro11">Click Get your certificate.</txt>
+                <txt id="intro12">Sorry! You have failed</txt>
+                <txt id="intro13">Congratulations!</txt>
+        
+        </instxt>
+        
+<Main>
+<QNo>1</QNo>
+<QUESTION>A ______ is a document which describes the objective, scope , approach and focus of a software testing effort</QUESTION>
+<OPTION1>Test Plan</OPTION1>
+<OPTION2>Test Case</OPTION2>
+<OPTION3>Test Strategy</OPTION3>
+<OPTION4>Test Script</OPTION4>
+<ANSWER>Test Plan</ANSWER>
+</Main>
+<Main>
+<QNo>2</QNo>
+<QUESTION>Advantages of Automated testing tools are:</QUESTION>
+<OPTION1>Economy</OPTION1>
+<OPTION2>Repeatability &amp; Scalability</OPTION2>
+<OPTION3>Robustness</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>3</QNo>
+<QUESTION>Table review process is followed mostly for reviewing documents. What is the other name of Table Review Process?</QUESTION>
+<OPTION1>PEST Analysis</OPTION1>
+<OPTION2>SWOT Analysis</OPTION2>
+<OPTION3>Fagan's Review Process</OPTION3>
+<OPTION4>Brainstorming</OPTION4>
+<ANSWER>Fagan's Review Process</ANSWER>
+</Main>
+<Main>
+<QNo>4</QNo>
+<QUESTION>The highlights of Acceptance testing are :</QUESTION>
+<OPTION1>Checks the system against the requirement specification</OPTION1>
+<OPTION2>Testing done by customer and not the developer</OPTION2>
+<OPTION3>Focuses on whether the system delivers what was requested and is informed by the business</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>5</QNo>
+<QUESTION>What is the correct definition of a Test Script?</QUESTION>
+<OPTION1>It is a logical group of test cases which when taken together test a particular function or unit of the system</OPTION1>
+<OPTION2>It is a document that defines the input, action and expected output to determine if a certain feature of an application is working correctly</OPTION2>
+<OPTION3>It is a document that describes the sequence of steps to execute a test case.</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>It is a logical group of test cases which when taken together test a particular function or unit of the system</ANSWER>
+</Main>
+<Main>
+<QNo>6</QNo>
+<QUESTION>Which of the following are highlights of system testing ?</QUESTION>
+<OPTION1>Testing is based on a very structured approach for generating test cases</OPTION1>
+<OPTION2>Testing is generally done by an independent test team, and not by the developer</OPTION2>
+<OPTION3>Aims at testing a host of variables like basic requirements, implied requirements, performance</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>7</QNo>
+<QUESTION>Which of the following are objectives of a review?</QUESTION>
+<OPTION1>Verifying that specifications are met</OPTION1>
+<OPTION2>Collecting data for improvement</OPTION2>
+<OPTION3>Identifying deviations from standards and specifications</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>8</QNo>
+<QUESTION>_______ is done with the intent of determining if the product will install on a variety of platforms.</QUESTION>
+<OPTION1>Product testing</OPTION1>
+<OPTION2>Installation testing</OPTION2>
+<OPTION3>Load testing</OPTION3>
+<OPTION4>Compatibility testing</OPTION4>
+<ANSWER>Installation testing</ANSWER>
+</Main>
+<Main>
+<QNo>9</QNo>
+<QUESTION>________ covers both Performance testing and Stress testing.</QUESTION>
+<OPTION1>Load testing</OPTION1>
+<OPTION2>Performance testing</OPTION2>
+<OPTION3>Build testing</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Load testing</ANSWER>
+</Main>
+<Main>
+<QNo>10</QNo>
+<QUESTION>__________ refers to 'Are we building the product RIGHT?'</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>Testing</OPTION3>
+<OPTION4>Verification</OPTION4>
+<ANSWER>Verification</ANSWER>
+</Main>
+<Main>
+<QNo>11</QNo>
+<QUESTION>___________ stage ensures that review comments have been incorporated during rework</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>Causal Analysis</OPTION2>
+<OPTION3>Rework</OPTION3>
+<OPTION4>Follow up</OPTION4>
+<ANSWER>Follow up</ANSWER>
+</Main>
+<Main>
+<QNo>12</QNo>
+<QUESTION>Defects found in reviews are classified in 2 ways. The 2 ways are :</QUESTION>
+<OPTION1>Priority, Source</OPTION1>
+<OPTION2>Severity, Type</OPTION2>
+<OPTION3>Major, Minor</OPTION3>
+<OPTION4>Cosmetic, Logical</OPTION4>
+<ANSWER>Severity, Type</ANSWER>
+</Main>
+<Main>
+<QNo>13</QNo>
+<QUESTION>Errors are classified based on</QUESTION>
+<OPTION1>Type</OPTION1>
+<OPTION2>Severity</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>None of the above </OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>14</QNo>
+<QUESTION>Focus of the integration testing is to verify</QUESTION>
+<OPTION1>The features specified in the design has been implemented</OPTION1>
+<OPTION2>Functionality of the system as a whole</OPTION2>
+<OPTION3>The inter-module interactions thoroughly</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>The inter-module interactions thoroughly</ANSWER>
+</Main>
+<Main>
+<QNo>15</QNo>
+<QUESTION>If the cost of fixing a defect in the requirements phase is 1, what is the relative cost of fixing a defect in the Testing Phase</QUESTION>
+<OPTION1>15-40</OPTION1>
+<OPTION2>10</OPTION2>
+<OPTION3>&gt;100</OPTION3>
+<OPTION4>10 to 15</OPTION4>
+<ANSWER>15-40</ANSWER>
+</Main>
+<Main>
+<QNo>16</QNo>
+<QUESTION>Importance of Review are :</QUESTION>
+<OPTION1>Detect defects early</OPTION1>
+<OPTION2>Emphasize quality throughout development</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>17</QNo>
+<QUESTION>In a review process, who moderates the review sessions?</QUESTION>
+<OPTION1>Author</OPTION1>
+<OPTION2>Reviewer</OPTION2>
+<OPTION3>Review Leader</OPTION3>
+<OPTION4>Recorder</OPTION4>
+<ANSWER>Review Leader</ANSWER>
+</Main>
+<Main>
+<QNo>18</QNo>
+<QUESTION>In a table review, who records the defects and classifies errors?</QUESTION>
+<OPTION1>Review Leader</OPTION1>
+<OPTION2>Reader</OPTION2>
+<OPTION3>Author</OPTION3>
+<OPTION4>Recorder</OPTION4>
+<ANSWER>Recorder</ANSWER>
+</Main>
+<Main>
+<QNo>19</QNo>
+<QUESTION>In which of the following review stages, tasks and specific focus areas are assigned to the team</QUESTION>
+<OPTION1>Planning</OPTION1>
+<OPTION2>Preparation</OPTION2>
+<OPTION3>Kick-off</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Kick-off</ANSWER>
+</Main>
+<Main>
+<QNo>20</QNo>
+<QUESTION>Mike Fagan of IBM published a paper in 1976, describing a method called __________ which formalised the software review process.</QUESTION>
+<OPTION1>Peer review</OPTION1>
+<OPTION2>Table review</OPTION2>
+<OPTION3>Online review</OPTION3>
+<OPTION4>Pair review</OPTION4>
+<ANSWER>Table review</ANSWER>
+</Main>
+<Main>
+<QNo>21</QNo>
+<QUESTION>Norms for review rate are defined for which of the following reasons:</QUESTION>
+<OPTION1>To assign review related tasks to the team</OPTION1>
+<OPTION2>Review Productivity</OPTION2>
+<OPTION3>Exit Criteria of a Review Process.</OPTION3>
+<OPTION4>Measure Review effectiveness</OPTION4>
+<ANSWER>Measure Review effectiveness</ANSWER>
+</Main>
+<Main>
+<QNo>22</QNo>
+<QUESTION>Preparation of a ________ is very important, before conducting Unit testing.</QUESTION>
+<OPTION1>System Test Plan</OPTION1>
+<OPTION2>Unit Test Plan</OPTION2>
+<OPTION3>Unit Test Case</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Unit Test Plan</ANSWER>
+</Main>
+<Main>
+<QNo>23</QNo>
+<QUESTION>Review is a formal evaluation technique in which software requirements, design and code is examined in detail by groups of persons other than the author to detect faults,violations of development standards and other problems. This definition of reviews is by</QUESTION>
+<OPTION1>IEEE</OPTION1>
+<OPTION2>Roger Pressmen</OPTION2>
+<OPTION3>SEI</OPTION3>
+<OPTION4>None of the Above</OPTION4>
+<ANSWER>IEEE</ANSWER>
+</Main>
+<Main>
+<QNo>24</QNo>
+<QUESTION>Testing is the process of __________</QUESTION>
+<OPTION1>Verifying that specifications are met</OPTION1>
+<OPTION2>Evaluating a system to verify that it satisfies the specified requirements</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Executing a program to find errors</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>25</QNo>
+<QUESTION>The basic building block of any activity in any phase of the SDLC which forms the core of Wipro's Reviews and Testing Process is called the :</QUESTION>
+<OPTION1>Verification and Validation Techniques</OPTION1>
+<OPTION2>ETVX Model</OPTION2>
+<OPTION3>Peer Review</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>ETVX Model</ANSWER>
+</Main>
+<Main>
+<QNo>26</QNo>
+<QUESTION>The different types of flow/coverage based testing are:</QUESTION>
+<OPTION1>Statement coverage</OPTION1>
+<OPTION2>Full Path coverage</OPTION2>
+<OPTION3>Decision coverage</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>27</QNo>
+<QUESTION>The inputs to planning stage in a review process are</QUESTION>
+<OPTION1>Problem definition</OPTION1>
+<OPTION2>List of roles</OPTION2>
+<OPTION3>Review process map</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Problem definition</ANSWER>
+</Main>
+<Main>
+<QNo>28</QNo>
+<QUESTION>The objectives of Regression testing are :</QUESTION>
+<OPTION1>Ensures performance of two or more modules</OPTION1>
+<OPTION2>It determines if bug fixes have been successful and they have not created any new problems</OPTION2>
+<OPTION3>Ensures that no degradation of baseline functionality has occurred</OPTION3>
+<OPTION4>Both (b) and (c)</OPTION4>
+<ANSWER>Both (b) and (c)</ANSWER>
+</Main>
+<Main>
+<QNo>29</QNo>
+<QUESTION>The purpose of _________ is to assure that the product or product components fulfill their intended use when placed in their intented environment</QUESTION>
+<OPTION1>User Acceptance Testing</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>Verification</OPTION3>
+<OPTION4>Product Testing</OPTION4>
+<ANSWER>Validation</ANSWER>
+</Main>
+<Main>
+<QNo>30</QNo>
+<QUESTION>The purpose of _________ is to assure that the selected product meet their specified requirements</QUESTION>
+<OPTION1>Acceptance Testing</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>Verification</OPTION3>
+<OPTION4>Feature testing</OPTION4>
+<ANSWER>Verification</ANSWER>
+</Main>
+<Main>
+<QNo>31</QNo>
+<QUESTION>The purpose of Functional testing are:</QUESTION>
+<OPTION1>Finding defects</OPTION1>
+<OPTION2>Verifying that the module performs its intended functions as stated in the specification</OPTION2>
+<OPTION3>Establishing confidence that a program does what it is supposed to do</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>32</QNo>
+<QUESTION>The role of a Review Team Leader is</QUESTION>
+<OPTION1>Provides an overview of the product to be reviewed during the kick off meeting</OPTION1>
+<OPTION2>Classify defects</OPTION2>
+<OPTION3>Provide clarification</OPTION3>
+<OPTION4>To moderate the review meeting</OPTION4>
+<ANSWER>To moderate the review meeting</ANSWER>
+</Main>
+<Main>
+<QNo>33</QNo>
+<QUESTION>The various kinds of classifications of testing are __________</QUESTION>
+<OPTION1>Type - based classification</OPTION1>
+<OPTION2>System - based classification</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Level - based classification</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>34</QNo>
+<QUESTION>There are seven steps in a review process. Which of the following step helps in defect prevention?</QUESTION>
+<OPTION1>Review Preparation</OPTION1>
+<OPTION2>Causal Analysis</OPTION2>
+<OPTION3>Conducting the Review</OPTION3>
+<OPTION4>Closing the review comments</OPTION4>
+<ANSWER>Causal Analysis</ANSWER>
+</Main>
+<Main>
+<QNo>35</QNo>
+<QUESTION>Tools commonly used for causal analysis are</QUESTION>
+<OPTION1>Root cause analysis</OPTION1>
+<OPTION2>Pareto Analysis</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>36</QNo>
+<QUESTION>Verification and Validation utilizes ________ to analyse and check system representations.</QUESTION>
+<OPTION1>Validation Techniques</OPTION1>
+<OPTION2>Testing Techniques</OPTION2>
+<OPTION3>Review Techniques</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Review Techniques</ANSWER>
+</Main>
+<Main>
+<QNo>37</QNo>
+<QUESTION>Which of the following are broad types of efficiency techniques in testing :</QUESTION>
+<OPTION1>Domain Based testing</OPTION1>
+<OPTION2>System Based testing</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Flow/ Coverage - Based testing</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>38</QNo>
+<QUESTION>Which of the following are the commonly accepted levels of testing in the Software Development Life Cycle ?</QUESTION>
+<OPTION1>System testing</OPTION1>
+<OPTION2>Unit or Component testing</OPTION2>
+<OPTION3>Integration testing</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>39</QNo>
+<QUESTION>Which of the following checklists are related to reviews in veloci-Q?</QUESTION>
+<OPTION1>Test plan/ Test Case Development Review</OPTION1>
+<OPTION2>Transition Review</OPTION2>
+<OPTION3>Code Review</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>40</QNo>
+<QUESTION>Which of the following could be a criteria to stop review</QUESTION>
+<OPTION1>Reviewers decide that there is no need for another review</OPTION1>
+<OPTION2>Too many errors are found in the review</OPTION2>
+<OPTION3>Defects are rectified and verified by review team leader</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>41</QNo>
+<QUESTION>Which of the following criteria serve as basis for taking decision to stop testing :</QUESTION>
+<OPTION1>Stop testing when all test cases execute without producing any error</OPTION1>
+<OPTION2>Stop testing when the specified test coverage is completed without finding errors</OPTION2>
+<OPTION3>Stop testing when it becomes unproductive</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>42</QNo>
+<QUESTION>Which of the following defect type classification is used for document Reviews?</QUESTION>
+<OPTION1>Performance</OPTION1>
+<OPTION2>Functionality</OPTION2>
+<OPTION3>Error Handling</OPTION3>
+<OPTION4>Lack of Clarity</OPTION4>
+<ANSWER>Lack of Clarity</ANSWER>
+</Main>
+<Main>
+<QNo>43</QNo>
+<QUESTION>Which of the following procedures are related to reviews in veloci-Q?</QUESTION>
+<OPTION1>Proposal/Contract review</OPTION1>
+<OPTION2>Review</OPTION2>
+<OPTION3>Release Review</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>44</QNo>
+<QUESTION>Which of the following review types is used for building code or documents by discussing with the members of the development team and improving the work item .</QUESTION>
+<OPTION1>Table Review</OPTION1>
+<OPTION2>Peer Review</OPTION2>
+<OPTION3>Inspection</OPTION3>
+<OPTION4>Walk throughs</OPTION4>
+<ANSWER>Walk throughs</ANSWER>
+</Main>
+<Main>
+<QNo>45</QNo>
+<QUESTION>Which of the following reviews have well defined roles</QUESTION>
+<OPTION1>Table review</OPTION1>
+<OPTION2>Walkthrough</OPTION2>
+<OPTION3>Peer review</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Table review</ANSWER>
+</Main>
+<Main>
+<QNo>46</QNo>
+<QUESTION>Which of the following rules apply for real-time system testing :</QUESTION>
+<OPTION1>Use tests to simulate hardware faults</OPTION1>
+<OPTION2>Use hardware simulation to add stress to the software design</OPTION2>
+<OPTION3>Design ways to simulate modules missing in the development system</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>47</QNo>
+<QUESTION>Which of the following statement is INCORRECT?</QUESTION>
+<OPTION1>The potential of testing to improve quality is unlimited.</OPTION1>
+<OPTION2>Properly run unit testing is potentially capable of removing 70% of the defects</OPTION2>
+<OPTION3>Testing cannot remove all defects which are undetected in earlier stages</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>The potential of testing to improve quality is unlimited.</ANSWER>
+</Main>
+<Main>
+<QNo>48</QNo>
+<QUESTION>Which of the following templates are related to reviews in veloci-Q?</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>Defect Prevention Report</OPTION2>
+<OPTION3>Release Review Summary</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>49</QNo>
+<QUESTION>Why is multiple rounds of system testing recommended?</QUESTION>
+<OPTION1>Accommodate bug fixes and eliminate maximum defects</OPTION1>
+<OPTION2>Shortage of resources to complete testing in one round</OPTION2>
+<OPTION3>Set of test cases can be executed in each round.</OPTION3>
+<OPTION4>For testing basic requirement, implied requirements , performance measures in various rounds</OPTION4>
+<ANSWER>Accommodate bug fixes and eliminate maximum defects</ANSWER>
+</Main>
+<Main>
+<QNo>50</QNo>
+<QUESTION>_____ testing focus on how the components communicate with each other as specified in the system Design</QUESTION>
+<OPTION1>System</OPTION1>
+<OPTION2>Integration</OPTION2>
+<OPTION3>User</OPTION3>
+<OPTION4>Component</OPTION4>
+<ANSWER>Integration</ANSWER>
+</Main>
+<Main>
+<QNo>51</QNo>
+<QUESTION>______ are conducted to find and eliminate errors/defects in the early stages of product development.</QUESTION>
+<OPTION1>Reviews and Testing</OPTION1>
+<OPTION2>Reviews</OPTION2>
+<OPTION3>Validation</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Reviews</ANSWER>
+</Main>
+<Main>
+<QNo>52</QNo>
+<QUESTION>______ examines the various combinations of Boolean operands within a condition.</QUESTION>
+<OPTION1>Condition coverage</OPTION1>
+<OPTION2>Condition operand coverage</OPTION2>
+<OPTION3>Condition operator coverage</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Condition operator coverage</ANSWER>
+</Main>
+<Main>
+<QNo>53</QNo>
+<QUESTION>______ provides a measure of the conditions which could ensure that a branch is executed.</QUESTION>
+<OPTION1>Decision coverage</OPTION1>
+<OPTION2>Condition operand coverage</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Condition coverage</OPTION4>
+<ANSWER>Condition operand coverage</ANSWER>
+</Main>
+<Main>
+<QNo>54</QNo>
+<QUESTION>_______ is used to determine whether other system software components such as browsers utilities and competing software will conflict with the software being tested</QUESTION>
+<OPTION1>Mutation Testing</OPTION1>
+<OPTION2>Browser Testing</OPTION2>
+<OPTION3>Compatibility Testing</OPTION3>
+<OPTION4>Real Time testing</OPTION4>
+<ANSWER>Compatibility Testing</ANSWER>
+</Main>
+<Main>
+<QNo>55</QNo>
+<QUESTION>________ can also be called as Black Box testing.</QUESTION>
+<OPTION1>System testing</OPTION1>
+<OPTION2>Integration testing</OPTION2>
+<OPTION3>Unit or Component testing</OPTION3>
+<OPTION4>Interface testing</OPTION4>
+<ANSWER>System testing</ANSWER>
+</Main>
+<Main>
+<QNo>56</QNo>
+<QUESTION>________ complexity is a measure of algorithmic complexity, calculated by counting operators and operands.</QUESTION>
+<OPTION1>McCabe</OPTION1>
+<OPTION2>Halstead</OPTION2>
+<OPTION3>Combination</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Halstead</ANSWER>
+</Main>
+<Main>
+<QNo>57</QNo>
+<QUESTION>________ complexity measures the structural complexity of software by quantifying the number of linearly-independent paths running through a program module.</QUESTION>
+<OPTION1>McCabe</OPTION1>
+<OPTION2>Halstead</OPTION2>
+<OPTION3>Combination</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>McCabe</ANSWER>
+</Main>
+<Main>
+<QNo>58</QNo>
+<QUESTION>________ complexity-based testing measures program length and vocabulary, volume, difficulty, and effort.</QUESTION>
+<OPTION1>McCabe</OPTION1>
+<OPTION2>Halstead</OPTION2>
+<OPTION3>Combination</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Combination</ANSWER>
+</Main>
+<Main>
+<QNo>59</QNo>
+<QUESTION>__________ testing shall be carried out if there are multiple modules in the project.</QUESTION>
+<OPTION1>Unit</OPTION1>
+<OPTION2>Build</OPTION2>
+<OPTION3>Module/ Feature</OPTION3>
+<OPTION4>System</OPTION4>
+<ANSWER>Module/ Feature</ANSWER>
+</Main>
+<Main>
+<QNo>60</QNo>
+<QUESTION>___________ in a review, helps in defect prevention</QUESTION>
+<OPTION1>Review Preparation</OPTION1>
+<OPTION2>Causal Analysis</OPTION2>
+<OPTION3>Review Meeting</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Causal Analysis</ANSWER>
+</Main>
+<Main>
+<QNo>61</QNo>
+<QUESTION>___________ technique can be used for testing process</QUESTION>
+<OPTION1>DOE and Pugh Matrix</OPTION1>
+<OPTION2>QFD and Orthogonal array</OPTION2>
+<OPTION3>DOE and Orthogonal array</OPTION3>
+<OPTION4>DOE and QFD</OPTION4>
+<ANSWER>DOE and Orthogonal array</ANSWER>
+</Main>
+<Main>
+<QNo>62</QNo>
+<QUESTION>_____________ is a way of proving that your system does what is intended and also meets all requirements.</QUESTION>
+<OPTION1>Verification</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>Verification and Validation</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Verification and Validation</ANSWER>
+</Main>
+<Main>
+<QNo>63</QNo>
+<QUESTION>During System Testing of an application, you would want to test the peak volumes of information that can be handled by the application. What kind of testing would you do?</QUESTION>
+<OPTION1>Stress</OPTION1>
+<OPTION2>Volume</OPTION2>
+<OPTION3>Performance</OPTION3>
+<OPTION4>Robustness</OPTION4>
+<ANSWER>Stress</ANSWER>
+</Main>
+<Main>
+<QNo>64</QNo>
+<QUESTION>Importance of Testing are :</QUESTION>
+<OPTION1>To ensure that the product is usable</OPTION1>
+<OPTION2>Early identification of errors that helps in prevention of a breakdown at a later stage.</OPTION2>
+<OPTION3>To ensure that customer's objectives are met</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>65</QNo>
+<QUESTION>In a software development environment ____________ is confirmation that the output of a particular phase of development meets all of the input requirements for that phase.</QUESTION>
+<OPTION1>Software Validation</OPTION1>
+<OPTION2>Software Testing</OPTION2>
+<OPTION3>Software Verification</OPTION3>
+<OPTION4>Reviews and Testing</OPTION4>
+<ANSWER>Software Verification</ANSWER>
+</Main>
+<Main>
+<QNo>66</QNo>
+<QUESTION>JTest, Jprobe, Purify are some of the __________ used in projects.</QUESTION>
+<OPTION1>Verification tools</OPTION1>
+<OPTION2>Validation tools</OPTION2>
+<OPTION3>Testing tools</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Testing tools</ANSWER>
+</Main>
+<Main>
+<QNo>67</QNo>
+<QUESTION>The ___________ based testing is a systematic, statistical way of testing the software.</QUESTION>
+<OPTION1>User interface</OPTION1>
+<OPTION2>Orthogonal Array</OPTION2>
+<OPTION3>Functionality</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Orthogonal Array</ANSWER>
+</Main>
+<Main>
+<QNo>68</QNo>
+<QUESTION>The outputs of review meeting are</QUESTION>
+<OPTION1>Defect Log</OPTION1>
+<OPTION2>Rework Task list</OPTION2>
+<OPTION3>Review meeting minutes</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>69</QNo>
+<QUESTION>Which of the following are different types of reviews?</QUESTION>
+<OPTION1>Walkthrough</OPTION1>
+<OPTION2>Inspections</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>70</QNo>
+<QUESTION>Which of the following are the highlights of unit testing ?</QUESTION>
+<OPTION1>Involves testing of basic building blocks of the system</OPTION1>
+<OPTION2>Testing is generally done by an independent test team, and not by developer</OPTION2>
+<OPTION3>Testing to verify the inter-module interactions thoroughly</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Involves testing of basic building blocks of the system</ANSWER>
+</Main>
+<Main>
+<QNo>71</QNo>
+<QUESTION>Which of the following is the most important criteria to start review of a work item.</QUESTION>
+<OPTION1>Sign off by the customer</OPTION1>
+<OPTION2>Approved by the Project Manager</OPTION2>
+<OPTION3>Check whether estimations of review is available</OPTION3>
+<OPTION4>Check for completeness of the work item to be reviewed</OPTION4>
+<ANSWER>Check for completeness of the work item to be reviewed</ANSWER>
+</Main>
+<Main>
+<QNo>72</QNo>
+<QUESTION>Which of the following testing is recommended in order to keep company data and resources secure from mistaken or accidental users, hackers, and other malevolent attackers.</QUESTION>
+<OPTION1>Security testing</OPTION1>
+<OPTION2>Safety testing</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Mutation testing</OPTION4>
+<ANSWER>Security testing</ANSWER>
+</Main>
+<Main>
+<QNo>73</QNo>
+<QUESTION>Which one of the following is an important output of a kick off meeting</QUESTION>
+<OPTION1>Roles and Responsibilities of Review team Members</OPTION1>
+<OPTION2>Individual Review notes</OPTION2>
+<OPTION3>List of Reviewers</OPTION3>
+<OPTION4>List of Roles of Reviewers</OPTION4>
+<ANSWER>Roles and Responsibilities of Review team Members</ANSWER>
+</Main>
+<Main>
+<QNo>74</QNo>
+<QUESTION>______ demonstrates satisfactory suitability for use in the intended operating environment.</QUESTION>
+<OPTION1>Verification</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>Review</OPTION3>
+<OPTION4>Inspection</OPTION4>
+<ANSWER>Validation</ANSWER>
+</Main>
+<Main>
+<QNo>75</QNo>
+<QUESTION>_______ is done to validate the entire product.</QUESTION>
+<OPTION1>System testing</OPTION1>
+<OPTION2>Acceptance testing</OPTION2>
+<OPTION3>Regression testing</OPTION3>
+<OPTION4>Integration testing</OPTION4>
+<ANSWER>System testing</ANSWER>
+</Main>
+<Main>
+<QNo>76</QNo>
+<QUESTION>________ helps analyze the required efforts for validating the acceptability of a software product.</QUESTION>
+<OPTION1>Test Plan</OPTION1>
+<OPTION2>Test Script</OPTION2>
+<OPTION3>Test Case</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Test Plan</ANSWER>
+</Main>
+<Main>
+<QNo>77</QNo>
+<QUESTION>________ is a process of executing a program with the intent of finding errors.</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>Peer review</OPTION2>
+<OPTION3>Verification</OPTION3>
+<OPTION4>Testing</OPTION4>
+<ANSWER>Testing</ANSWER>
+</Main>
+<Main>
+<QNo>78</QNo>
+<QUESTION>________ typically involves actual testing.</QUESTION>
+<OPTION1>Verification</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>System Checking</OPTION3>
+<OPTION4>Verification and Validation</OPTION4>
+<ANSWER>Validation</ANSWER>
+</Main>
+<Main>
+<QNo>79</QNo>
+<QUESTION>__________ are techniques of system checking and analysis.</QUESTION>
+<OPTION1>Review and Testing</OPTION1>
+<OPTION2>Review and Analysing</OPTION2>
+<OPTION3>Review, Testing and analysing</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Review and Testing</ANSWER>
+</Main>
+<Main>
+<QNo>80</QNo>
+<QUESTION>__________ includes all of the verification and testing activities conducted throughout the software lifecycle.</QUESTION>
+<OPTION1>Software Testing</OPTION1>
+<OPTION2>Software Validation</OPTION2>
+<OPTION3>Software Verification</OPTION3>
+<OPTION4>Reviews and Testing</OPTION4>
+<ANSWER>Software Validation</ANSWER>
+</Main>
+<Main>
+<QNo>81</QNo>
+<QUESTION>__________ is a formal evaluation technique in which software requirements, design, or code are examined to detect faults.</QUESTION>
+<OPTION1>Review</OPTION1>
+<OPTION2>System Testing</OPTION2>
+<OPTION3>Validation</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Review</ANSWER>
+</Main>
+<Main>
+<QNo>82</QNo>
+<QUESTION>A ____ provides a framework for setting the input parameters, executing the unit and reading the output parameter.</QUESTION>
+<OPTION1>Test bed</OPTION1>
+<OPTION2>Test driver</OPTION2>
+<OPTION3>Test stub</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Test driver</ANSWER>
+</Main>
+<Main>
+<QNo>83</QNo>
+<QUESTION>Test audit observations should be captured in _________</QUESTION>
+<OPTION1>Test Audit Report</OPTION1>
+<OPTION2>Test Report</OPTION2>
+<OPTION3>Test Observation Report</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Test Audit Report</ANSWER>
+</Main>
+<Main>
+<QNo>84</QNo>
+<QUESTION>The outputs of planning stage in a review process are</QUESTION>
+<OPTION1>Baseline Work Product</OPTION1>
+<OPTION2>Review Plan</OPTION2>
+<OPTION3>List of roles for review</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>85</QNo>
+<QUESTION>Which of the following reviews are recommended for large/critical work items</QUESTION>
+<OPTION1>Peer review</OPTION1>
+<OPTION2>Table review</OPTION2>
+<OPTION3>Walkthrough</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Table review</ANSWER>
+</Main>
+<Main>
+<QNo>86</QNo>
+<QUESTION>Wipro is CMMI Level 5 certified organization. Verification and Validation Process Areas lies at</QUESTION>
+<OPTION1>CMMI Level 3</OPTION1>
+<OPTION2>CMMI Level 5</OPTION2>
+<OPTION3>CMMI Level 2</OPTION3>
+<OPTION4>CMMI Level 4</OPTION4>
+<ANSWER>CMMI Level 3</ANSWER>
+</Main>
+<Main>
+<QNo>87</QNo>
+<QUESTION>________ can also be called White box testing.</QUESTION>
+<OPTION1>Integration testing</OPTION1>
+<OPTION2>Unit or Component testing</OPTION2>
+<OPTION3>Interface testing</OPTION3>
+<OPTION4>System testing</OPTION4>
+<ANSWER>Unit or Component testing</ANSWER>
+</Main>
+<Main>
+<QNo>88</QNo>
+<QUESTION>A visual examination of a software product to detect and identify software anomalies or defects including errors and deviations from standards is</QUESTION>
+<OPTION1>Walkthrough</OPTION1>
+<OPTION2>Testing</OPTION2>
+<OPTION3>Inspection</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Inspection</ANSWER>
+</Main>
+<Main>
+<QNo>89</QNo>
+<QUESTION>An informal meeting for evaluation or information purpose is a</QUESTION>
+<OPTION1>Walkthrough</OPTION1>
+<OPTION2>Testing</OPTION2>
+<OPTION3>Inspection</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Walkthrough</ANSWER>
+</Main>
+<Main>
+<QNo>90</QNo>
+<QUESTION>As the project moves from requirements stage to completion stage, the cost of fixing defects .</QUESTION>
+<OPTION1>Remains the same</OPTION1>
+<OPTION2>Decreases</OPTION2>
+<OPTION3>Is unaffected by reviews</OPTION3>
+<OPTION4>Increases</OPTION4>
+<ANSWER>Increases</ANSWER>
+</Main>
+<Main>
+<QNo>91</QNo>
+<QUESTION>Challenges of Review and Testing are:</QUESTION>
+<OPTION1>Lack of domain expertise</OPTION1>
+<OPTION2>Monotony of the job and coping with requirement changes</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Both (a) and (b)</ANSWER>
+</Main>
+<Main>
+<QNo>92</QNo>
+<QUESTION>A ________ is an imitation of a unit, used in place of the real unit to facilitate testing.</QUESTION>
+<OPTION1>Test driver</OPTION1>
+<OPTION2>Test build</OPTION2>
+<OPTION3>Test bed</OPTION3>
+<OPTION4>Test stub</OPTION4>
+<ANSWER>Test stub</ANSWER>
+</Main>
+<Main>
+<QNo>93</QNo>
+<QUESTION>A group of test scripts which when taken together test all functions of an entire system is called the __________.</QUESTION>
+<OPTION1>Test Suite</OPTION1>
+<OPTION2>Test Bed</OPTION2>
+<OPTION3>Test Product</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Test Bed</ANSWER>
+</Main>
+<Main>
+<QNo>94</QNo>
+<QUESTION>In a table review, who paraphrases the code/document?</QUESTION>
+<OPTION1>Reader</OPTION1>
+<OPTION2>Author</OPTION2>
+<OPTION3>Review Leader</OPTION3>
+<OPTION4>Recorder</OPTION4>
+<ANSWER>Reader</ANSWER>
+</Main>
+<Main>
+<QNo>95</QNo>
+<QUESTION>Software bugs occur due to ___________ reasons.</QUESTION>
+<OPTION1>Software complexity and inadequate use of development tools</OPTION1>
+<OPTION2>Poorly documented code</OPTION2>
+<OPTION3>Poor understanding of requirements</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>96</QNo>
+<QUESTION>Sometimes a need may arise for an external review of the software product. Which of the following needs will prompt you to go for an ERT?</QUESTION>
+<OPTION1>Domain Content</OPTION1>
+<OPTION2>Technical Content</OPTION2>
+<OPTION3>Cosmetic Content</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>97</QNo>
+<QUESTION>The challenges in Testing are:</QUESTION>
+<OPTION1>Lack of testing tools</OPTION1>
+<OPTION2>Often development effort increases and there is very little time for testing</OPTION2>
+<OPTION3>Generation of adequate test cases</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>98</QNo>
+<QUESTION>The different kinds of domain-based testing techniques are :</QUESTION>
+<OPTION1>Decision Table</OPTION1>
+<OPTION2>Equivalence Partitioning</OPTION2>
+<OPTION3>Boundary Value Analysis</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>99</QNo>
+<QUESTION>Which of the following are Code Complexity measures used as basis for testing :</QUESTION>
+<OPTION1>McCabe measures</OPTION1>
+<OPTION2>Combination measures</OPTION2>
+<OPTION3>Halstead measures</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>All of the above</ANSWER>
+</Main>
+<Main>
+<QNo>100</QNo>
+<QUESTION>Which of the following is NOT a document defect type</QUESTION>
+<OPTION1>Cosmetic</OPTION1>
+<OPTION2>Violation of standards</OPTION2>
+<OPTION3>Lack of clarity</OPTION3>
+<OPTION4>Performance</OPTION4>
+<ANSWER>Performance</ANSWER>
+</Main>
+<Main>
+<QNo>101</QNo>
+<QUESTION>________ determines if a new software version is performing well enough to accept it for a major testing effort.</QUESTION>
+<OPTION1>Mutation testing</OPTION1>
+<OPTION2>Load testing</OPTION2>
+<OPTION3>Smoke testing</OPTION3>
+<OPTION4>Release testing</OPTION4>
+<ANSWER>Smoke testing</ANSWER>
+</Main>
+<Main>
+<QNo>102</QNo>
+<QUESTION>________ involves checking that each feature specified in the component design has been implemented in the component.</QUESTION>
+<OPTION1>Interface testing</OPTION1>
+<OPTION2>Integration testing</OPTION2>
+<OPTION3>Unit testing</OPTION3>
+<OPTION4>System testing</OPTION4>
+<ANSWER>Unit testing</ANSWER>
+</Main>
+<Main>
+<QNo>103</QNo>
+<QUESTION>________ involves testing two or more modules together with the intent of finding defects between the modules.</QUESTION>
+<OPTION1>Integration or interface testing</OPTION1>
+<OPTION2>Feature testing</OPTION2>
+<OPTION3>Unit testing</OPTION3>
+<OPTION4>System testing</OPTION4>
+<ANSWER>Integration or interface testing</ANSWER>
+</Main>
+<Main>
+<QNo>104</QNo>
+<QUESTION>________ is a method for determining if a set of test data or test cases is useful.</QUESTION>
+<OPTION1>Automated testing</OPTION1>
+<OPTION2>Mutation testing</OPTION2>
+<OPTION3>Functional testing</OPTION3>
+<OPTION4>Module testing</OPTION4>
+<ANSWER>Mutation testing</ANSWER>
+</Main>
+<Main>
+<QNo>105</QNo>
+<QUESTION>________ is done with the intent of determining how quickly a product handles a variety of events, actions or functions.</QUESTION>
+<OPTION1>Performance testing</OPTION1>
+<OPTION2>System testing</OPTION2>
+<OPTION3>Both (a) and (b)</OPTION3>
+<OPTION4>Product testing</OPTION4>
+<ANSWER>Performance testing</ANSWER>
+</Main>
+<Main>
+<QNo>106</QNo>
+<QUESTION>________ is the process of evaluating a system to verify that it satisfies specified requirements.</QUESTION>
+<OPTION1>Verification</OPTION1>
+<OPTION2>Testing</OPTION2>
+<OPTION3>Reviews</OPTION3>
+<OPTION4>Inspection</OPTION4>
+<ANSWER>Testing</ANSWER>
+</Main>
+<Main>
+<QNo>107</QNo>
+<QUESTION>________ is used to test operation of the software and input-output data to ensure that the software is performing well.</QUESTION>
+<OPTION1>Software Testing</OPTION1>
+<OPTION2>Review Techniques</OPTION2>
+<OPTION3>Verification</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Software Testing</ANSWER>
+</Main>
+<Main>
+<QNo>108</QNo>
+<QUESTION>________ techniques examine input and output of test data and derive test cases based on an analysis of the input and output domains.</QUESTION>
+<OPTION1>Flow/ Coverage - Based testing</OPTION1>
+<OPTION2>System Based testing</OPTION2>
+<OPTION3>Domain-Based testing</OPTION3>
+<OPTION4>None of the above</OPTION4>
+<ANSWER>Domain-Based testing</ANSWER>
+</Main>
+<Main>
+<QNo>109</QNo>
+<QUESTION>________ typically involves reviews and meetings to evaluate documents, plans, code, requirements and specifications.</QUESTION>
+<OPTION1>Testing</OPTION1>
+<OPTION2>Validation</OPTION2>
+<OPTION3>Project Planning</OPTION3>
+<OPTION4>Verification</OPTION4>
+<ANSWER>Verification</ANSWER>
+</Main>
+<Main>
+<QNo>110</QNo>
+<QUESTION>_________ can be done with checklists, issues lists, walkthroughs, and inspection meetings.</QUESTION>
+<OPTION1>Validation</OPTION1>
+<OPTION2>Verification</OPTION2>
+<OPTION3>Inspection</OPTION3>
+<OPTION4>Testing</OPTION4>
+<ANSWER>Verification</ANSWER>
+</Main>
+<Main>
+<QNo>111</QNo>
+<QUESTION>_________ determines how well a product performs when a load is placed on the system resources that nears and then exceeds the system capacity.</QUESTION>
+<OPTION1>Compatibility Testing</OPTION1>
+<OPTION2>Load testing</OPTION2>
+<OPTION3>Capacity testing</OPTION3>
+<OPTION4>Stress testing</OPTION4>
+<ANSWER>Stress testing</ANSWER>
+</Main>
+<Main>
+<QNo>112</QNo>
+<QUESTION>_________ is a document that defines the input, action and the corresponding expected output, to determine if a certain feature of an application is working correctly.</QUESTION>
+<OPTION1>Test Script</OPTION1>
+<OPTION2>Test Bed</OPTION2>
+<OPTION3>Test Case</OPTION3>
+<OPTION4>Test Plan</OPTION4>
+<ANSWER>Test Case</ANSWER>
+</Main>
+<Main>
+<QNo>113</QNo>
+<QUESTION>_________ refers to 'Are we building the RIGHT product?'</QUESTION>
+<OPTION1>Verification</OPTION1>
+<OPTION2>Testing</OPTION2>
+<OPTION3>Review</OPTION3>
+<OPTION4>Validation</OPTION4>
+<ANSWER>Validation</ANSWER>
+</Main>
+<Main>
+<QNo>114</QNo>
+<QUESTION>__________ implies testing the system with the intent of confirming the readiness of the product and customer acceptance of the product.</QUESTION>
+<OPTION1>Acceptance Testing</OPTION1>
+<OPTION2>Integration testing</OPTION2>
+<OPTION3>Load testing</OPTION3>
+<OPTION4>System testing</OPTION4>
+<ANSWER>Acceptance Testing</ANSWER>
+</Main>
+<Main>
+<QNo>115</QNo>
+<QUESTION>__________ is used to test system data and examine system output.</QUESTION>
+<OPTION1>Software Review</OPTION1>
+<OPTION2>Software Inspection</OPTION2>
+<OPTION3>Software Analysing</OPTION3>
+<OPTION4>Software Testing</OPTION4>
+<ANSWER>Software Testing</ANSWER>
+</Main>
+<Main>
+<QNo>116</QNo>
+<QUESTION>__________ refers to testing the features/ navigation/ expected expectations, when more than one users from different machines operate on same Objects.</QUESTION>
+<OPTION1>Concurrent testing</OPTION1>
+<OPTION2>Functional testing</OPTION2>
+<OPTION3>Module testing</OPTION3>
+<OPTION4>All of the above</OPTION4>
+<ANSWER>Concurrent testing</ANSWER>
+</Main>
+</NewDataSet>
